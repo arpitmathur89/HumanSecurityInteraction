@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Human Security Interaction</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/ico" href="images/favicon.ico"/>
+	<link rel="shortcut icon" type="image/ico" href="http://eg.com/favicon.ico"/>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/design.js"></script>
+</head>
+
+
+<body>
+<!-- HEADER -->
+<nav class="navbar-inverse tophd navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a href="index.html"><img src="images/logo.png" /></a>
+    </div>
+    <div class="topmenu">
+        <ul class="nav navbar-nav navbar-right">
+            <a href="index.html" class="btn btn-default" role="button">Home</a>
+            <a href="model.html" class="btn btn-default active" role="button">Model</a>
+            <a href="methodology.html" class="btn btn-default" role="button">Methodology</a>
+            <a href="patterns.html" class="btn btn-default" role="button">Patterns</a>
+            <a href="about.html" class="btn btn-default" role="button">About Us</a>
+            <a href="contact.html" class="btn btn-default" role="button">Contact Us</a>
+    	</ul>
+    </div>
+  </div>
+</nav>
+<!-- HEADER -->
+
+<!-- MODEL -->
+<div class="container firstdiv">
+<h2>Model</h2>
+<p class="mt10">Corporations and Host providers spend millions of dollars on building firewalls and data encryption to protect the data that are trusted with. 
+In many cases breaking through firewalls or trying to guess the encryption keys are very difficult if not impossible. 
+Hackers have much better luck preying on human weakness using deception and sometimes collaboration to gain access.  
+Hackers often use multi-tiered attacks. The first layer is often a phishinglayer to get the user to deploy a virus (Trojan horse)and/or get his credentials. 
+This is followed by data extraction, or in the case of Ransomware simply data encryption, with the hope that the user will pay a ransom to get their data back un-encrypted.
+</p>
+</div>
+<div class="container" style="position:relative;">
+<img src="images/model_diagram.jpg" usemap="#Map" />
+<map name="Map">
+  <area shape="circle" coords="961,119,39" href="" id="ttAdware">
+  <area shape="rect" coords="950,175,1037,241" href="ransomware.html" target="_blank" id="ttRansomware">
+  <area shape="rect" coords="963,268,1058,329" href="worms.html" target="_blank" id="ttWorm">
+  <area shape="circle" coords="1007,392,37" href="virus.html" target="_blank" id="ttVirus">
+  <area shape="circle" coords="1011,497,41" href="spyware.html" target="_blank" id="ttSpyware">
+  <area shape="circle" coords="1000,605,42" href="" id="ttTrojan">
+  <area shape="circle" coords="975,713,39" href="" id="ttMalware">
+  <area shape="poly" coords="857,654,806,744,911,742,859,656" href="" id="ttPoison">
+  <area shape="rect" coords="770,231,869,312" href="" id="ttHacker">
+</map>
+
+<!-- Adware -->
+<div id="adwareDiv" style="display:none; right:240px;">
+<img src="images/pointer.png" class="ttp" />
+<strong>Adware:</strong> Adware is also known as advertising-supported software. It is software which renders advertisements for the purpose of generating revenue for its author. 
+The advertisements are published on the screen presented to the user at the time of installation. Adware is programmed to examine which Internet sites, the user visits frequently and to 
+present and feature related advertisements. Not all adware has malicious intent, but it becomes a problem anyway because it harms computer performance and can be annoying.
+</div>
+
+<!-- Ransomware -->
+<div id="ransomwareDiv" style="display:none; right:215px; top:180px;">
+<img src="images/pointer.png" class="ttp" />
+<strong>Ransomware:</strong> Ransomware is an advanced type of malware that restricts access to the computer system until the user pays a fee.  
+Your screen might show a pop-up warning that your have been locked out of your computer and that you can access only after paying the cybercriminal. 
+The cybercriminal demands a ransom to be paid in order for the restriction to be removed. The infamous Cryptolocker is one type of Ransomware.
+</div>
+<!-- Worm -->
+<div id="wormDiv" style="display:none; right:200px; top:280px;">
+<img src="images/pointer.png" class="ttp" />
+<strong>Worms:</strong> A worm is similar to a virus by design and is considered to be a sub-class of a virus. Worms spread from computer to computer, but unlike a virus, it has the 
+capability to travel without any human action. A worm takes advantage of file or information transport features on your system, which is what allows it to travel unaided.
+The biggest danger with a worm is its capability to replicate itself on your system, so rather than your computer sending out a single worm, it could send out hundreds or thousands 
+of copies of itself, creating a huge devastating effect. One example would be for a worm to send a copy of itself to everyone listed in your e-mail address book. Then, the worm replicates 
+and sends itself out to everyone listed in each of the receiver's address book, and the manifest continues on down the line. Due to the copying nature of a worm and its capability to travel 
+across networks the end result in most cases is that the worm consumes too much system memory (or network bandwidth), causing Web servers, network servers and individual computers to 
+stop responding. In recent worm attacks such as the much-talked-about Blaster Worm, the worm has been designed to tunnel into your system and allow malicious users to control your computer remotely.
+</div>
+<!-- Virus -->
+<div id="virusDiv" style="display:none; right:190px; top:280px;">
+<img src="images/pointer.png" class="ttp" style="top:100px;" />
+<strong>Virus:</strong> A computer virus attaches itself to a program or file enabling it to spread from one computer to another, leaving infections as it travels. Like a human virus, 
+a computer virus can range in severity: some may cause only mildly annoying effects while others can damage your hardware, software or files. Almost all viruses are attached to an executable 
+file, which means the virus may exist on your computer but it actually cannot infect your computer unless you run or open the malicious program. It is important to note that a virus cannot be 
+spread without a human action, (such as running an infected program) to keep it going. Because a virus is spread by human action people will unknowingly continue the spread of a computer virus 
+by sharing infecting files or sending emails with viruses as attachments in the email.
+</div>
+<!-- Spyware -->
+<div id="spywareDiv" style="display:none; right:190px; top:460px;">
+<img src="images/pointer.png" class="ttp" />
+<strong>Spyware:</strong> This type of malicious software, spies on you, tracks your internet activities. 
+It helps the hacker in gathering information about the victim’s system, without the consent of the victim. This spyware’s presence is typically hidden from the host and it is 
+very difficult to detect. Some spyware like keyloggers may be installed intentionally in an organization to monitor activities of employees.
+</div>
+<!-- Trojan Horse -->
+<div id="trojanDiv" style="display:none; right:190px; top:330px;">
+<img src="images/pointer.png" class="ttp" style="top:250px;" />
+<strong>Trojan:</strong> A Trojan Horse is full of as much trickery as the mythological Trojan Horse it was named after. The Trojan Horse, at first glance will appear 
+to be useful software but will actually do damage once installed or run on your computer.  Those on the receiving end of a Trojan Horse are usually tricked into opening 
+them because they appear to be receiving legitimate software or files from a legitimate source.  When a Trojan is activated on your computer, the results can vary. 
+Some Trojans are designed to be more annoying than malicious (like changing your desktop, adding silly active desktop icons) or they can cause serious damage by deleting 
+files and destroying information on your system. Trojans are also known to create a backdoor on your computer that gives malicious users access to your system, possibly allowing 
+confidential or personal information to be compromised. Unlike viruses and worms, Trojans do not reproduce by infecting other files nor do they self-replicate.
+</div>
+<!-- Java Script Malware -->
+<div id="malwareDiv" style="display:none; right:220px; top:650px;">
+<img src="images/pointer.png" class="ttp" style="top:50px;" />
+<strong>JSmalware:</strong> Javascripts Malware are programs that run inside the browser. They are very commonly used with most websites to enhance user experience. 
+However hackers use them as a mechanism to phish user ID and password, deliver other Malware or render the browser un-usable.
+</div>
+<!-- DNS and Catch Poisoning -->
+<div id="poisonDiv" style="display:none; right:350px; top:480px;">
+<img src="images/pointer.png" class="ttp" style="top:230px;" />
+The <strong>Domain Name System (DNS)</strong> resolves domain names like yahoo.com, human can easily remember IP addresses needed for the purpose of computer services and 
+devices to interact. For example when a user wants to accessyahoo.com, the browser contacts the DNS to resolve yahoo.com DNS returns [206.190.36.45] for the IP address. All devices on a private 
+or public network are configured to use a particular DNS. For home user the default DNS is the router itself. Traditionally each corporation deploys internally its own local DNS.
+DNS Poisoningis an attack, whereby the data is altered in local DNS. For example a hacker wants to re-route traffic from yahoo.com to his computer for Corporate XYZ. Attacker poison corporate XYZ 
+local DNS ,causing it to return his server IP address when resolving Yahoo.com. 
+</div>
+<!-- Hackers Data -->
+<div id="hackerDiv" style="display:none; right:395px; top:100px;">
+<img src="images/pointer.png" class="ttp" style="top:170px;" />
+<strong>Hackers</strong>’ most common ploy is to send an email, SMS, or even social media such as Facebook posting to their victims. The message contains attachments and or URL with a story that urges the user to access 
+the URL or download theattachments. Attachment and URL are embedded with Malwares. URLs are usually fake links to a commonly-known server to the user. As an example these links may appears to be pointing 
+to google,Paypal, dropbox etc... Closer look demonstrates that these links do not contain the proper domain name. The hacks with good success ratesare the ones where the hackers pose asa trusted source to 
+the victim,such asa co-worker, friend, or family member (most likely these people were hacked to be used as an accessory), where the likelihood to open the URL or attachments are much higher. 
+A sophisticated hack may poison the victim DNS to make the URL looks exactly like the original URL with proper domain name, while the URL really points to the hacker server. The user may use hacker’s server 
+unwittingly giving the hacker theultimate prize: the key to the data - the user credentials.All powersof firewalls and encryption that may or may not exist will fail to protect the data. 
+The problem is compounded when a user compromises a key that exposes data he is entrusted with which is not his own.
+</div>
+
+
+</div>
+<div class="container">
+<img src="images/driven.jpg" />
+</div>
+<!-- MODEL -->
+
+<!-- FOOTER -->
+<div class="container-fluid footer">
+	<div class="container">
+    	<div class="navbar-left">© 2015 humanhsecurityinteraction.com. All rights reserved.</div>
+        <div class="navbar-right">
+        	<a href="index.html">Home</a> | 
+            <a href="model.html">Model</a> | 
+            <a href="methodology.html">Methodology</a> | 
+            <a href="patterns.html">Patterns</a> | 
+          <a href="about.html">About</a> | 
+            <a href="contact.html">Contact Us</a>
+        </div>
+    </div>
+</div>
+<!-- FOOTER -->
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
