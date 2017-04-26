@@ -11,6 +11,11 @@
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/validator.js"></script>
+  <script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
 </head>
 
 
@@ -27,36 +32,37 @@
             <a href="model.html" class="btn btn-default" role="button">Model</a>
             <a href="methodology.html" class="btn btn-default" role="button">Methodology</a>
             <a href="patterns.html" class="btn btn-default" role="button">Patterns</a>
-			<a href="developments.html" class="btn btn-default" role="button">Developments</a>
+			<a href="developments.html" class="btn btn-default active" role="button">Developments</a>
             <a href="about.html" class="btn btn-default" role="button">About Us</a>
-            <a href="contact.html" class="btn btn-default active" role="button">Contact Us</a>
+            <a href="contact.html" class="btn btn-default" role="button">Contact Us</a>
     	</ul>
     </div>
   </div>
 </nav>
 <!-- HEADER -->
 
-<!-- About -->
-<div class="container firstdiv">
-<div class="col-lg-8">
-<h3>SEND US A MESSAGE</h3>
-<div id="valitateText" style="color:#FF0000;"></div>
-
-<iframe src="contactus.php" style="width:100%; border:none; height:400px;"></iframe>
-
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2> 
+<div class="container pagediv">
+<h2>Incident Form</h2>
+<p>
+User-related security patterns are collected and stored in an accessible pattern repository. A panel of security experts will receive community contribution, edit and format them before adding them to the existing repository. Fill the incident form to log in your hacking incident.
+</p>
 </div>
-<div class="col-lg-3 pull-right"></div>
+<!-- Form  -->
+	<div class="container firstdiv" style="margin-top: 10px;">
+	<div class="col-md-2"></div>
+	<div class="col-md-8">
+		<iframe src="testform.php" width="100%" scrolling="no" height="2075px" frameBorder="0"></iframe>
+	</div>
+	<div class="col-md-2"></div>
+	
+</div>	
+<!-- FORM -->
 
-</div>
-<!-- About -->
-
+<div>
+	<h2>&nbsp;</h2>
+	<h2>&nbsp;</h2>
+	<h2>&nbsp;</h2>
+</div>	
 <!-- FOOTER -->
 <div class="container-fluid footer">
 	<div class="container">
@@ -74,57 +80,5 @@
 </div>
 <!-- FOOTER -->
 </body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</html>		
+		
