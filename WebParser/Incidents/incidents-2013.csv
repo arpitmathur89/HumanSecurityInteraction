@@ -1,0 +1,1212 @@
+SL.No,ORGANIZATION BREACHED,RECORDS BREACHED,DATE OF BREACH,TYPE OF BREACH,SOURCE OF BREACH,LOCATION,INDUSTRY
+1,Adobe Systems, Inc,09/18/13,Financial Access,Malicious Outsider,United States,Technology
+2,MySpace,06/11/13,Account Access,Malicious Outsider,United States,Other
+3,Target,11/04/13,Financial Access,Malicious Outsider,United States,Retail 
+4,Yahoo,08/09/13,Identity Theft,Malicious Outsider,United States,Technology
+5,Country's Supreme Election Committee (YSK),12/16/13,Identity Theft,Malicious Outsider,Turkey,Government
+6,iMesh,09/22/13,Identity Theft,Malicious Outsider,United States,Technology
+7,Cupid Media,11/20/13,Identity Theft,Malicious Outsider,Australia,Other
+8,Tumblr,11/26/13,Account Access,Malicious Outsider,United States,Technology
+9,Foursquare,12/01/13,Account Access,Malicious Outsider,United States,Technology
+10,Excellus BlueCross BlueShield,12/23/13,Identity Theft,Malicious Outsider,United States,Healthcare
+11,MTN Irancell,07/02/13,Nuisance,Malicious Outsider,Iran,Technology
+12,Zhejiang Cnwisdom Network Co,09/05/13,Account Access,Malicious Outsider,China,Other
+13,Evernote,11/25/13,Existential Data,Malicious Outsider,United States,Technology
+14,Evernote,02/13/13,Account Access,Malicious Outsider,United States,Technology
+15,LivingSocial,04/04/13,Account Access,Malicious Outsider,United States,Retail 
+16,Maricopa County Community College District,11/27/13,Identity Theft,Malicious Outsider,United States,Education
+17,National White Collar Crime Center (NW3C),09/14/13,Identity Theft,Malicious Outsider,United States,Other
+18,Harbor Freight Tools,07/19/13,Financial Access,Malicious Outsider,United States,Other
+19,Schnucks,02/18/13,Financial Access,Malicious Outsider,United States,Retail 
+20,LEAPlab,12/05/13,Identity Theft,Malicious Insider,United States,Financial
+21,SuperValu, loyaltybuild, Electricity Supply Board,10/25/13,Financial Access,Malicious Outsider,United Kingdom,Financial
+22,The Washington state Administrative Office,04/14/13,Identity Theft,Malicious Outsider,United States,Government
+23,YTO Express,10/22/13,Nuisance,Malicious Insider,China,Retail 
+24,Ubuntu Forums,06/27/13,Account Access,Malicious Outsider,United States,Technology
+25,Yahoo Japan,04/23/13,Account Access,Malicious Outsider,Japan,Technology
+26,muscogee county ,11/13/13,Identity Theft,Malicious Outsider,United States,Retail 
+27,Neiman Marcus,07/01/13,Financial Access,Malicious Outsider,United States,Education
+28,Advocate Health Care,07/18/13,Identity Theft,Malicious Outsider,United States,Healthcare
+29,Advocate Medical Group,07/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+30,Court Ventures, Experian,10/21/13,Identity Theft,Malicious Insider,United States,Financial
+31,MacRumors forums,11/13/13,Account Access,Malicious Outsider,United States,Technology
+32,Children's Healthcare of Atlanta,10/30/13,Existential Data,Malicious Insider,United States,Healthcare
+33,Affinity Gaming,03/14/13,Financial Access,Malicious Outsider,United States,Financial
+34,Cascade Medical Center,04/26/13,Nuisance,Malicious Outsider,United States,Healthcare
+35,Groupon Taiwan,05/03/13,Account Access,Malicious Outsider,Taiwan,Other
+36,Health Net,07/05/13,Identity Theft,Malicious Outsider,United States,Healthcare
+37,Vodafone,08/23/13,Identity Theft,Malicious Outsider,Germany,Technology
+38,Monterey County Department of Social Services,03/17/13,Identity Theft,Malicious Outsider,United States,Government
+39,Virginia Polytechnic Institute and State University,08/28/13,Identity Theft,Malicious Outsider,United States,Other
+40,AhaShare,05/09/13,Existential Data,Malicious Outsider,United States,Other
+41,Prodigy,08/01/13,Account Access,Accidental Loss,Mexico,Technology
+42,Win7Vista Forum,09/07/13,Existential Data,Malicious Outsider,Unknown,Technology
+43,Parsippany police,03/29/13,Existential Data,Malicious Insider,United States,Government
+44,Tango,06/28/13,Identity Theft,Malicious Outsider,United States,Technology
+45,United States Department of Energy,07/22/13,Identity Theft,Malicious Outsider,United States,Government
+46,UW Medicine, Harborview Medical Center, University of Washington Medical,10/02/13,Identity Theft,Malicious Outsider,United States,Healthcare
+47,Vodafone Iceland,11/30/13,Existential Data,Malicious Outsider,Iceland,Technology
+48,AHMC Anaheim Regional Medical Center LP,10/21/13,Identity Theft,Malicious Outsider,United States,Healthcare
+49,bitcointalk.org,09/30/13,Account Access,Malicious Outsider,Germany,Financial
+50,City of Wichita,09/17/13,Identity Theft,Malicious Outsider,United States,Government
+51,Facebook,06/02/13,Account Access,Accidental Loss,United States,Technology
+52,Horizon Blue Cross Blue Shield of New Jersey,12/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+53,MTV Taiwan,03/17/13,Financial Access,Malicious Outsider,Taiwan,Other
+54,Staysure,10/28/13,Financial Access,Malicious Outsider,United Kingdom,Retail
+55,Iranian bank,11/01/13,Financial Access,Accidental Loss,Iran,Financial
+56,Medicentres,09/26/13,Identity Theft,Malicious Outsider,Canada,Healthcare
+57,Pantagon,03/13/13,Existential Data,Malicious Outsider,United States,Government
+58,The L.A. Gay and Lesbian Community Services Center (LAGLCSC),11/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+59,Drupal.org,05/06/13,Account Access,Malicious Outsider,United States,Technology
+60,Maglan,08/28/13,Account Access,State Sponsored,Israel,Technology
+61,Truecaller,06/24/13,Account Access,Malicious Outsider,Sweden,Other
+62,Froedtert Health ,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+63,Methodist Dallas Medical Center,08/01/13,Identity Theft,Malicious Outsider,United States,Healthcare
+64,Public Safety Personnel Retirement System,10/02/13,Identity Theft,Malicious Insider,United States,Government
+65,Lounge Board,04/07/13,Existential Data,Malicious Outsider,United States,Other
+66,Northwest Florida State College,02/28/13,Identity Theft,Malicious Outsider,United States,Other
+67,Scottsdale Dermatology Clinic,10/08/13,Financial Access,Malicious Outsider,United States,Healthcare
+68,Vendini, Inc,04/29/13,Financial Access,Malicious Outsider,United States,Other
+69,Yahoo Japan,03/13/13,Nuisance,Malicious Outsider,Japan,Technology
+70,Cambridge,05/31/13,Existential Data,Malicious Outsider,United Kingdom,Other
+71,Global credit,03/15/13,Financial Access,Malicious Outsider,Belgium,Financial
+72,Ontario PSWs,12/09/13,Identity Theft,Malicious Outsider,Canada,Healthcare
+73,PSW Registry,12/09/13,Identity Theft,Malicious Outsider,United States,Healthcare
+74,Scribd Inc,03/13/13,Account Access,Malicious Outsider,United States,Technology
+75,EA Firemonkeys,09/07/13,Account Access,Malicious Outsider,Australia,Technology
+76,GitHub,11/20/13,Account Access,Malicious Outsider,United States,Technology
+77,Glasgow City Council,05/17/13,Identity Theft,Malicious Outsider,United Kingdom,Government
+78,Halifax Bank,05/07/13,Financial Access,Malicious Outsider,United Kingdom,Financial
+79,Lloyd's Banking Group,05/03/13,Identity Theft,Malicious Insider,United Kingdom,Financial
+80,Buffer, MongoHQ,10/26/13,Nuisance,Malicious Outsider,United States,Healthcare
+81,Citigroup,06/27/13,Identity Theft,Malicious Outsider,United States,Financial
+82,Entrinsik/Vermont College,06/15/13,Identity Theft,Malicious Outsider,United States,Education
+83,General Services Administration,02/13/13,Identity Theft,Accidental Loss,United States,Government
+84,Home Depot,11/01/13,Identity Theft,Malicious Insider,United States,Retail
+85,Lexis Nexis Sprechman And Associates,02/13/13,Identity Theft,Malicious Insider,United States,Retail 
+86,Mossad,03/18/13,Identity Theft,Hacktivist,Israel,Government
+87,Tom Sawyer,10/07/13,Account Access,Malicious Outsider,United States,Technology
+88,Walla,04/05/13,Account Access,Hacktivist,Israel,Other
+89,Central City Concern,05/24/13,Identity Theft,Malicious Insider,United States,Healthcare
+90,Kirkwood Community College,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+91,Louisiana state, JP Morgan Chase,09/04/13,Identity Theft,Accidental Loss,United States,Government
+92,Medical Marijuana Registry,08/03/13,Identity Theft,Accidental Loss,United States,Healthcare
+93,Nintendo,06/14/13,Account Access,Malicious Outsider,Japan,Technology
+94,Raley's supermarket,07/01/13,Financial Access,Malicious Outsider,United States,Other
+95,Twitter,02/13/13,Account Access,Malicious Outsider,United States,Technology
+96,Baltimore County,11/01/13,Identity Theft,Malicious Insider,United States,Government
+97,California Correctional Health Care Services,07/02/13,Identity Theft,Accidental Loss,United States,Healthcare
+98,Crescent Healthcare,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+99,Edmonds Center for the Arts,07/20/13,Financial Access,Malicious Outsider,United States,Other
+100,Goo,03/13/13,Identity Theft,Malicious Outsider,Japan,Technology
+101,Government of Maharashtra,04/11/13,Existential Data,Accidental Loss,India,Government
+102,Lanap & Dental Implants of Pennsylvania,12/09/13,Identity Theft,Malicious Outsider,United States,Healthcare
+103,League of Legends,07/23/13,Financial Access,Malicious Outsider,United Kingdom,Technology
+104,Morningstar,06/04/13,Account Access,Malicious Outsider,United States,Financial
+105,Pixel Federation,12/06/13,Account Access,Malicious Outsider,Slovakia ,Technology
+106,Region Ten Community Services Board,07/29/13,Identity Theft,Malicious Outsider,United States,Healthcare
+107,Sachem Central School,11/07/13,Identity Theft,Malicious Insider,United States,Education
+108,Seals With Clubs,12/19/13,Account Access,Malicious Outsider,Europe,Financial
+109,Stephen T. Imrie, M.D,12/10/13,Identity Theft,Malicious Outsider,United States,Healthcare
+110,U.S. troops stationed,06/08/13,Identity Theft,Malicious Outsider,South Korea,Government
+111,University of Arizona,10/16/13,Identity Theft,Malicious Outsider,United States,Education
+112,University Of Florida,03/13/13,Identity Theft,Malicious Insider,United States,Other
+113,Aadhaar,03/28/13,Identity Theft,Accidental Loss,India,Government
+114,Blackhawk Consulting Group, Medical University of South Carolina,08/12/13,Financial Access,Malicious Outsider,United States,Healthcare
+115,Central Hadson Gas And Electric,03/13/13,Financial Access,Malicious Outsider,United States,Other
+116,Fulton County Superior Court,12/09/13,Identity Theft,Malicious Insider,United States,Government
+117,Holy cross hospital,09/19/13,Identity Theft,Malicious Insider,United States,Healthcare
+118,Kenya army twitter,07/22/13,Nuisance,Hacktivist,Kenya,Government
+119,Republic Services,07/26/13,Identity Theft,Malicious Outsider,United States,Other
+120,University of Delaware,07/08/13,Identity Theft,Malicious Outsider,United States,Other
+121,Wall Street , Goldman Sachs,04/15/13,Financial Access,Malicious Outsider,United States,Financial
+122,california state university,08/23/13,Identity Theft,Malicious Outsider,United States,Education
+123,Ferris State University,07/22/13,Identity Theft,Malicious Outsider,United States,Other
+124,ICG America, InAmazing Clubs, Flying Noodle, MonsterBrew, Games2U, TexasIrons, California Reds,09/11/13,Financial Access,Malicious Outsider,United States,Retail 
+125,Spine Center,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+126,ABC,02/13/13,Identity Theft,Malicious Outsider,Australia,Other
+127,Bangladesh Air Force,05/15/13,Account Access,Malicious Outsider,Bangladesh,Government
+128,City of Milwaukee, Dynacare Laboratories,10/22/13,Identity Theft,Malicious Outsider,United States,Government
+129,Health Canada,11/20/13,Identity Theft,Accidental Loss,Canada,Healthcare
+130,Indiana Family and Social Services Administration,06/13/13,Identity Theft,Accidental Loss,United States,Government
+131,J.P. Morgan Chase , Capital One,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+132,James A. Haley Veterans Hospital,06/17/13,Identity Theft,Malicious Insider,United States,Healthcare
+133,Kaiser Permanente,12/23/13,Identity Theft,Malicious Outsider,United States,Healthcare
+134,Michigan Department of Community Health, Michigan Cancer Consortium,06/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+135,Missouri Credit Union,07/25/13,Identity Theft,Accidental Loss,United States,Financial
+136,NewSeaSIMS,04/08/13,Account Access,Malicious Outsider,Japan,Technology
+137,PR Newswire,03/03/13,Account Access,Malicious Outsider,United States,Technology
+138,presidential website,06/13/13,Identity Theft,Hacktivist,south korea,Government
+139,Allina Health,10/28/13,Identity Theft,Malicious Outsider,United States,Healthcare
+140,Astropid,12/05/13,Existential Data,Malicious Outsider,United States,Other
+141,Cottage Health System, Goleta Valley Cottage Hospital,Santa Barbara Cottage Hospital,12/02/13,Identity Theft,Accidental Loss,United States,Healthcare
+142,Flamingo Conference Resort and Spa,11/20/13,Identity Theft,Malicious Outsider,United States,Other
+143,Konami Digital Entertainment,06/19/13,Identity Theft,Malicious Outsider,United States,Technology
+144,Melissa Selke, MD, PC,10/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+145,Office of Dr. Paul Perron ,12/03/13,Identity Theft,Malicious Outsider,United States,Healthcare
+146,Paragon Benefits ,TSYS,  Kelley Manufacturing,09/12/13,Identity Theft,Malicious Insider,United States,Healthcare
+147,Plateau,08/08/13,Account Access,Malicious Outsider,United States,Technology
+148,Sony,06/24/13,Identity Theft,Malicious Outsider,Italy,Other
+149,TerraCom and YourTel America ,04/15/13,Identity Theft,Accidental Loss,United States,Other
+150,University of Florida medical practice,05/03/13,Identity Theft,Malicious Insider,United States,Other
+151,Virginia Department of Social Services,12/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+152,Worldview Limited,06/28/13,Identity Theft,Malicious Outsider,United Kingdom,Other
+153,Bitcash.cz,11/11/13,Financial Access,Malicious Outsider,Czech Republic,Financial
+154,Central Laboration Pension, Welfare And Annuity Funds,02/13/13,Identity Theft,Malicious Outsider,United States,Other
+155,city of Akron's website,04/24/13,Identity Theft,Malicious Outsider,United States,Government
+156,Deutsche Telekom,07/30/13,Identity Theft,Accidental Loss,Germany,Technology
+157,Easter Seals ,12/10/13,Identity Theft,Malicious Outsider,United States,Healthcare
+158,Florida Digestive Health Specialists,11/26/13,Identity Theft,Malicious Insider,United States,Healthcare
+159,International Plaza,10/01/13,Financial Access,Malicious Outsider,United States,Other 
+160,Lincoln Medical and Mental Health Center,03/15/13,Identity Theft,Accidental Loss,United States,Healthcare
+161,MO HealthNet,08/02/13,Identity Theft,Accidental Loss,United States,Healthcare
+162,Samsung ,06/04/13,Account Access,Malicious Outsider,Kazakhstan,Retail 
+163,St. Mary's Bank,06/24/13,Nuisance,Malicious Outsider,United States,Financial
+164,University of Miami Health System,06/27/13,Identity Theft,Accidental Loss,United States,Education
+165,Federal Reserve Bank,02/04/13,Existential Data,Malicious Outsider,United States,Financial
+166,Florida's pill mill,05/28/13,Identity Theft,Malicious Insider,United States,Healthcare
+167,IRS,06/17/13,Identity Theft,Accidental Loss,United States,Government
+168,Lee Miller Rehab Associates,02/13/13,Nuisance,Malicious Outsider,United States,Healthcare
+169,Micro-Star International (MSI),04/14/13,Account Access,Malicious Outsider,South Korea,Other
+170,Saint Louis University,09/30/13,Identity Theft,Malicious Insider,United States,Other
+171,The city of Sumner,12/28/13,Identity Theft,Malicious Insider,United States,Government
+172,California State University Sacramento,10/16/13,Identity Theft,Malicious Outsider,United States,Education
+173,Colorado state,12/18/13,Identity Theft,Malicious Outsider,United States,Government
+174,Department of Developmental Services Santa Monica,05/14/13,Identity Theft,Malicious Outsider,United States,Government
+175,Heyman Hospice Care At Floyd,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+176,Iron Hourse ,02/27/13,Financial Access,Malicious Outsider,United States,Other
+177,Ladies First Choice,01/03/13,Identity Theft,Malicious Insider,United States,Healthcare
+178,PakistanIntelligence.com,05/17/13,Nuisance,Malicious Outsider,United States,Government
+179,Palm Beach County Health Dep,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+180,Region of Peel,10/02/13,Identity Theft,Malicious Outsider,Canada,Healthcare
+181,Security Consulting Group,02/13/13,Existential Data,Malicious Outsider,United States,Government
+182,UnityPoint Health,09/25/13,Identity Theft,Malicious Outsider,United States,Healthcare
+183,Wells Fargo Mortgage,08/13/13,Identity Theft,Malicious Outsider,United States,Financial
+184,Briar Group,12/28/13,Financial Access,Malicious Outsider,United States,other
+185,Department of Health in Orange County,10/30/13,Identity Theft,Malicious Insider,United States,Healthcare
+186,Express Scipts,02/13/13,Financial Access,Malicious Outsider,United States,Financial
+187,Fairfax County Health Department ,  Bailey's Health Center,10/18/13,Identity Theft,Malicious Outsider,United States,Healthcare
+188,FDA,10/15/13,Identity Theft,Malicious Outsider,United States,Government
+189,Freenters,11/14/13,Identity Theft,Malicious Outsider,United States,Retail 
+190,procello,03/19/13,Financial Access,Malicious Outsider,Germany,Technology
+191,Raleigh Orthopedic Clinic ,04/14/13,Identity Theft,Malicious Outsider,United States,Healthcare
+192,South Africa's police,05/01/13,Identity Theft,Malicious Outsider,South Africa,Government
+193,TD Bank,10/17/13,Financial Access,Accidental Loss,Canada,Financial
+194,University of Iowa,12/11/13,Identity Theft,Malicious Insider,United States,Education
+195,Wells Fargo, Citibank, TD Bank ATM,07/02/13,Financial Access,Malicious Outsider,United States,Financial
+196,DaVita,09/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+197,Department of Energy -  Savannah River Site,03/13/13,Identity Theft,Malicious Outsider,United States,Government
+198,Diagnostic Health Solutions,06/16/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+199,Florida Department of Education,06/02/13,Identity Theft,Accidental Loss,United States,Other
+200,Henry Ford Health System,06/25/13,Identity Theft,Malicious Insider,United States,Healthcare
+201,Houston Methodist Hospital,12/05/13,Identity Theft,Malicious Outsider,United States,Healthcare
+202,Lucile Packard Children's Hospital,05/21/13,Identity Theft,Malicious Outsider,United States,Healthcare
+203,Made In Oregon,10/15/13,Financial Access,Malicious Outsider,United States,Retail 
+204,Minnesota Department of Public Safety Driver and Vehicle Services,01/15/13,Nuisance,Malicious Insider,United States,Government
+205,N.C Dep of health and human services,02/13/13,Identity Theft,Accidental Loss,United States,Government
+206,Oral surgeon,  Lee D. Pollan,05/08/13,Identity Theft,Malicious Outsider,United States,Healthcare
+207,South Western Ambulance Service NHS Trust,10/06/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+208,The Investment Industry Regulatory Organization Of Canada,03/13/13,Identity Theft,Accidental Loss,Canada,Financial
+209,United Homecare Services,03/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+210,Wellington City Council,12/12/13,Identity Theft,Accidental Loss,New Zealand,Government
+211,ZenDesk,02/04/13,Account Access,Malicious Outsider,United States,Technology
+212,A MERMAID Waters physiotherapy clinic,04/17/13,Existential Data,Malicious Outsider,Australia,Healthcare
+213,Charlotte medical practice, Presbyterian Anesthesia Associates,04/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+214,Coulee Medical Center breach,11/08/13,Identity Theft,Malicious Insider,United States,Healthcare
+215,D & J Optical ,11/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+216,Dermatology Associates of Tallahassee,09/04/13,Identity Theft,Malicious Outsider,United States,Healthcare
+217,Homeland Security Department, DHS,04/29/13,Identity Theft,Malicious Outsider,United States,Government
+218,Indiana University Health Arnett,04/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+219,Leading Edge Physiotherapy,08/15/13,Identity Theft,Malicious Outsider,Canada,Healthcare
+220,Martin�Army�Community�Hospital/Fort�Benning,04/16/13,Identity Theft,Malicious Outsider,United States,Government
+221,Olson & White Orthodontics,08/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+222,Piedmont Healthcare,04/29/13,Identity Theft,Malicious Outsider,United States,Healthcare
+223,Pizza Hot,08/09/13,Account Access,Malicious Outsider,Spain,Other
+224,R.T. Jones Capital Equities Management, Inc,09/14/13,Identity Theft,Malicious Outsider,United States,Financial
+225,Sierra View District Hospital,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+226,The Environmental Protection Acknowledged,03/13/13,Account Access,Accidental Loss,United States,Government
+227,The Pound Road Medical Centre (PRMC),11/13/13,Identity Theft,Malicious Outsider,Australia,Healthcare
+228,U.S DEP of Energy, Savannah River Site,02/14/13,Identity Theft,Malicious Insider,United States,Government
+229,University Of Connecticut Health Center,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+230,Ziggo,10/10/13,Identity Theft,Accidental Loss,Netherlands,Other
+231,Advanced Data Processing Inc, Valparaiso Fire Department,08/27/13,Identity Theft,Malicious Outsider,United States,Healthcare
+232,Akron-Canton Airport,05/02/13,Account Access,Malicious Outsider,United States,Other
+233,ATM New York,02/19/13,Nuisance,Malicious Outsider,United States,Financial
+234,BriovaRx,07/03/13,Identity Theft,Malicious Insider,United States,Healthcare
+235,Broward Health Medical Center,06/07/13,Identity Theft,Malicious Insider,United States,Healthcare
+236,City of Abbotsford,07/08/13,Financial Access,Malicious Outsider,United States,Financial
+237,Department of Social and Health Services (DSHS),12/19/13,Identity Theft,Accidental Loss,United States,Government
+238,Hope Family Health,10/04/13,Identity Theft,Malicious Outsider,United States,Healthcare
+239,Indian High Commission,01/01/13,Identity Theft,Malicious Outsider,Global,Government
+240,Kindred Healthcare Inc,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+241,LexisNexis, Dun & Bradstreet, Kroll Background America, Inc,09/10/13,Identity Theft,Malicious Outsider,United States,Other
+242,Lutheran Social Services of South Central Pennsylvania,04/14/13,Identity Theft,Malicious Outsider,United States,Healthcare
+243,Martin Army Community Hospital/Fort Benning,12/05/13,Identity Theft,Malicious Insider,United States,Healthcare
+244,St. Joseph Health System,02/01/13,Identity Theft,Accidental Loss,United States,Healthcare
+245,Stronghold Counseling Services Inc,04/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+246,StubHub,07/08/13,Financial Access,Malicious Outsider,United States,Retail 
+247,Tallahassee Community College,02/19/13,Nuisance,Malicious Outsider,United States,Other
+248,University Hospitals,08/08/13,Identity Theft,Malicious Outsider,United States,Healthcare
+249,University of California San Francisco (UCSF),11/25/13,Identity Theft,Malicious Outsider,United States,Healthcare
+250,University of North Carolina,02/13/13,Identity Theft,Unknown,United States,Other
+251,University of North Carolina at Chapel Hill,07/04/13,Identity Theft,Accidental Loss,United States,Education
+252,Uriminzokkiri.com,03/15/13,Identity Theft,Hacktivist,North Korea,Other
+253,William Jennings Bryan Dorn VA Medical Center,03/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+254,Anthem Blue Cross of California,10/23/13,Identity Theft,Accidental Loss,United States,Healthcare
+255,Department Of Human Services,02/13/13,Identity Theft,Malicious Outsider,United States,Government
+256,Department Of Sate Treasurer,02/13/13,Identity Theft,Accidental Loss,United States,Government
+257,European Police College ,05/15/13,Account Access,Malicious Outsider,Belgium,Government
+258,Greater Dallas Orthopaedics, PLLC,09/01/13,Identity Theft,Malicious Outsider,United States,Healthcare
+259,Gulf Breeze Family Eyecare,06/09/13,Identity Theft,Malicious Insider,United States,Healthcare
+260,Kaiser Foundation Health Plan of the Northwest,03/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+261,Riverside Health System,11/01/13,Identity Theft,Malicious Insider,United States,Healthcare
+262,Salem State University,02/13/13,Nuisance,Malicious Outsider,United States,Other
+263,South Miami Hospital,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+264,Sovereign Medical Group, LLC,05/03/13,Nuisance,Malicious Outsider,United States,Healthcare
+265,St. Mary's Janesville Hospital,09/24/13,Identity Theft,Malicious Outsider,United States,Healthcare
+266,Standard Chartered Bank,12/04/13,Identity Theft,Malicious Outsider,Singapore,Financial
+267,State drivers license,02/13/13,Identity Theft,Malicious Insider,United States,Government
+268,Tullamore Credit Union,12/26/13,Identity Theft,Accidental Loss,United Kingdom,Financial
+269,Turkish Government and Turkish websites,06/04/13,Account Access,Malicious Outsider,Turkey,Government
+270,University of South Carolina,06/09/13,Identity Theft,Malicious Outsider,United States,Other
+271,US Airways Group,07/31/13,Financial Access,Malicious Outsider,United States,Other
+272,Avast,02/13/13,Identity Theft,Unknown,Germany,Retail 
+273,Aventura Hospital and Medical Center,01/08/13,Identity Theft,Malicious Insider,United States,Healthcare
+274,Boston Public Schools,07/21/13,Identity Theft,Accidental Loss,United States,Other
+275,Central Maine Power,03/13/13,Identity Theft,Malicious Outsider,United States,Other 
+276,Comfort Dental,02/15/13,Identity Theft,Malicious Insider,United States,Healthcare
+277,Constantin Film,03/25/13,Account Access,Hacktivist,Germany,Other
+278,Foxtons,07/23/13,Account Access,Malicious Outsider,United Kingdom,Other
+279,Fuji Xerox,03/24/13,Financial Access,Malicious Outsider,Singapore,Retail 
+280,Google,05/30/13,Account Access,Malicious Outsider,Iran,Technology
+281,Harris County,06/18/13,Identity Theft,Accidental Loss,United States,Government
+282,Higher Education Commission,07/09/13,Account Access,Hacktivist,Pakistan,Other
+283,Hope Community Resources of Alaska,08/03/13,Identity Theft,Accidental Loss,United States,Healthcare
+284,Hospice Of Alamance Caswell, lifepath Home Health,03/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+285,Hospice of the Chesapeake,10/19/13,Identity Theft,Malicious Outsider,United States,Healthcare
+286,Hospital for Special Surgery,03/19/13,Identity Theft,Malicious Outsider,United States,Healthcare
+287,Memphis Police Department,05/17/13,Nuisance,Accidental Loss,United States,Government
+288,Office of the Medicaid Inspector General,06/21/13,Identity Theft,Accidental Loss,United States,Healthcare
+289,Seton Healthcare Family,10/04/13,Identity Theft,Malicious Outsider,United States,Healthcare
+290,State of Colorado,12/16/13,Identity Theft,Accidental Loss,United States,Government
+291,Sutter Health medical center,05/18/13,Identity Theft,Malicious Outsider,United States,Healthcare
+292,Tennessee Department of Treasury,12/13/13,Identity Theft,Malicious Insider,United States,Education
+293,The West Australian, Loretto Telecom,  Mound Telecom,10/02/13,Account Access,Malicious Outsider,Australia,Other
+294,UniHealth SOURCE, UniHealth Select, and Blue Ridge Community Based Services,10/08/13,Identity Theft,Malicious Outsider,United States,Healthcare
+295,Union County Public School,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+296,University of Virginia ,06/21/13,Identity Theft,Accidental Loss,United States,Other
+297,Bon Secours Hampton Roads Health System-Mary Immaculate Hospital,05/08/13,Identity Theft,Malicious Insider,United States,Healthcare
+298,Bon Secours Mary Immaculate Hospital,05/12/13,Identity Theft,Malicious Insider,United States,Healthcare
+299,Good Samaritan Hospital,07/08/13,Identity Theft,Malicious Outsider,United States,Healthcare
+300,Hit CITIC Telecom, Ukrainian Journal,05/30/13,Identity Theft,Malicious Outsider,Hong Kong,Other
+301,Home Care Of Mid Missouri,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+302,LifeLabs,06/05/13,Identity Theft,Accidental Loss,Canada,Healthcare
+303,McKenna Long & Aldridge (MLA),11/28/13,Identity Theft,Malicious Outsider,United States,Other
+304,Minnesota Dep Of Natural Resources,02/13/13,Identity Theft,Malicious Insider,United States,Government
+305,Northrop Grumman Retiree Health Plan,07/05/13,Identity Theft,Malicious Outsider,United States,Healthcare
+306,Oregon Health And Science University,03/04/13,Identity Theft,Malicious Outsider,United States,Healthcare
+307,Riverside Health System, Cancer Specialists of Tidewater,10/06/13,Nuisance,Malicious Insider,United States,Healthcare
+308,State Farm auto,09/06/13,Financial Access,Malicious Insider,United States,Financial
+309,West Van District website,07/12/13,Financial Access,Malicious Outsider,Canada,Other
+310,Bonneville Power Administration,08/26/13,Identity Theft,Malicious Outsider,United States,Other
+311,Champlain College,05/08/13,Identity Theft,Accidental Loss,United States,Other
+312,Clark & Anderson,09/07/13,Identity Theft,Malicious Outsider,United States,Financial
+313,Comprehensive Psychological Services LLC,10/28/13,Identity Theft,Malicious Outsider,United States,Healthcare
+314,Conexis, Commonwealth of Virginia,08/14/13,Identity Theft,Accidental Loss,United States,Government
+315,Datapak ,03/05/13,Financial Access,Malicious Outsider,United States,Financial
+316,DeLoach &Williamson, South Carolina Health Insurance Pool, BlueCross BlueShield of South Carolina,10/16/13,Identity Theft,Malicious Outsider,United States,Financial
+317,Department of the Brihanmumbai Municipal Corporation ,06/15/13,Existential Data,Unknown,India,Government
+318,First National Bank of Mercersburg,03/15/13,Identity Theft,Malicious Outsider,United States,Financial
+319,Hong Kong Olympic,04/26/13,Identity Theft,Malicious Outsider,Hong Kong,Government
+320,Islington Council,08/03/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+321,Mesquite gas station,04/14/13,Financial Access,Malicious Outsider,United States,Retail 
+322,Montana State University,06/09/13,Identity Theft,Malicious Insider,United States,Other
+323,North Texas Comprehensive Spine and Pain Center,08/03/13,Identity Theft,Malicious Outsider,United States,Healthcare
+324,Numericable,06/24/13,Account Access,Malicious Outsider,Belgium,Technology
+325,Riderwood Village,03/01/13,Identity Theft,Malicious Outsider,United States,Healthcare
+326,Sarah Benjamin, DPM _ Littleton Podiatry,08/27/13,Identity Theft,Malicious Outsider,United States,Healthcare
+327,Schuylkill Health System,08/07/13,Identity Theft,Malicious Outsider,United States,Healthcare
+328,Semiconductor, Parametric Technology,05/15/13,Account Access,Malicious Outsider,United Kingdom,Other
+329,Ume??_ Municipality,04/03/13,Account Access,Malicious Outsider,Sweden,Technology
+330,Women's Health Enterprise,03/10/13,Identity Theft,Malicious Outsider,United States,Other
+331,York technical college,04/14/13,Identity Theft,Accidental Loss,United States,Other
+332,Yuma's Arizona Counseling And Treatment Services,03/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+333,Anglo American Platinum,03/26/13,Identity Theft,Hacktivist,United Kingdom,Financial
+334,ATM,11/13/13,Financial Access,Malicious Outsider,United States,Financial
+335,Chicago Public Schools,12/01/13,Identity Theft,Accidental Loss,United States,Education
+336,City of Berkeley,04/09/13,Identity Theft,Accidental Loss,United States,Other
+337,City Of Jacksonville,02/13/13,Identity Theft,Accidental Loss,United States,Government
+338,City of Kingston Maternal and Child Health Service,01/01/13,Identity Theft,Accidental Loss,Australia,Healthcare
+339,Colorado Health & Wellness,09/04/13,Account Access,Malicious Insider,United States,Healthcare
+340,Coney Island Hospital's Ida G. Israel Community Health Center ,05/08/13,Identity Theft,Accidental Loss,United States,Healthcare
+341,Cypress Surgery Center/Wichita surgery center,06/08/13,Identity Theft,Malicious Insider,United States,Healthcare
+342,Dent Neurologic Institute ,04/15/13,Identity Theft,Accidental Loss,United States,Healthcare
+343,Earthquake Commission (EQC),02/22/13,Identity Theft,Accidental Loss,New Zealand,Government
+344,Facebook Israel, Dan Coorpate, Adidas, Financial Office,03/13/13,Nuisance,Hacktivist,Israel,Technology
+345,Intercessors for America,07/02/13,Account Access,Hacktivist,United States,Other
+346,LabMD ,08/10/13,Identity Theft,Accidental Loss,United States,Healthcare
+347,Lakes Environmental,04/07/13,Identity Theft,Accidental Loss,New Zealand,Government
+348,Medtronic,07/05/13,Identity Theft,Malicious Outsider,United States,Healthcare
+349,North Country Hospital ,09/20/13,Identity Theft,Malicious Insider,United States,Healthcare
+350,Oxford Centre for Cognitive Therapy (Oxford Health NHS Foundation Trust),05/23/13,Account Access,Accidental Loss,United Kingdom,Healthcare
+351,Paul G. Klein, DPM,10/01/13,Identity Theft,Malicious Outsider,United States,Healthcare
+352,Rotech Healthcare ,08/30/13,Identity Theft,Accidental Loss,United States,Healthcare
+353,St. Anthony's nursing home,08/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+354,Tennova Cardiology,10/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+355,University Dental Associates ,05/08/13,Identity Theft,Malicious Outsider,United States,Healthcare
+356,Wood County Hospital,04/21/13,Identity Theft,Malicious Outsider,United States,Healthcare
+357,Alabama Criminal Justice Information Center ,04/05/13,Identity Theft,Hacktivist,United States,Financial
+358,Brickcom Corporation,06/25/13,Existential Data,Hacktivist,Taiwan,Technology
+359,Elaine Taxes ,05/03/13,Nuisance,Malicious Insider,United States,Financial
+360,Fairfax County Public Schools,07/02/13,Identity Theft,Malicious Outsider,United States,Other
+361,Information Handling Services Inc,02/13/13,Identity Theft,Unknown,United States,Government
+362,Iowa Department of Human Services,06/06/13,Identity Theft,Accidental Loss,United States,Government
+363,Lone Star Circle of Care,07/03/13,Identity Theft,Malicious Outsider,United States,Healthcare
+364,Long Beach Memorial Medical Center,06/19/13,Identity Theft,Malicious Insider,United States,Healthcare
+365,Lookitsme,04/26/13,Account Access,Malicious Outsider,United Kingdom,Technology
+366,Louisiana State University Health System,04/17/13,Identity Theft,Accidental Loss,United States,Healthcare
+367,Parkwood Hospital,08/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+368,Public Storage,09/04/13,Nuisance,Malicious Outsider,United States,Retail 
+369,Radnor Township School District,05/25/13,Identity Theft,Malicious Outsider,United States,Education
+370,Retinal Consultants Medical Group,07/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+371,River Falls Medical Clinic ,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+372,Slighter Golf and The Grand Theft Auto Role Playing Game,04/08/13,Account Access,Malicious Outsider,United States,Retail 
+373,Southern Illinois University HealthCare (SIU HealthCare) ,09/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+374,Superior HealthPlan,10/09/13,Nuisance,Accidental Loss,United States,Healthcare
+375,The Home Office,10/15/13,Identity Theft,Accidental Loss,United Kingdom,Government
+376,U.S. Coast Guard,03/07/13,Identity Theft,Malicious Insider,United States,Government
+377,UK Government  Immigrants Website,10/15/13,Identity Theft,Accidental Loss,United Kingdom,Government
+378,AHW LLC,GreenPartStore and FarmFunStore,06/23/13,Financial Access,Malicious Outsider,United States,Retail 
+379,Arkansas State University,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+380,Bank Of Prairie Du Sac,02/13/13,Financial Access,Malicious Outsider,United States,Financial
+381,CME,03/20/13,Existential Data,Accidental Loss,United States,Financial
+382,Creative Banner Assemblies ,08/12/13,Financial Access,Malicious Outsider,United States,Other
+383,Denver counselor's office,07/17/13,Identity Theft,Malicious Outsider,United States,Healthcare
+384,Goold Health,01/23/13,Identity Theft,Accidental Loss,United States,Healthcare
+385,Lakes Liquor,10/27/13,Financial Access,Malicious Outsider,United States,Other
+386,Mental Health Facility In Philadelphia,10/05/13,Identity Theft,Malicious Insider,United States,Healthcare
+387,Milwaukee Public School District,Express Scripts,09/18/13,Identity Theft,Accidental Loss,United States,Government
+388,Monfort,03/13/13,Nuisance,Unknown,United States,Healthcare
+389,SynerMed , Inland Empire Health Plan ,05/21/13,Identity Theft,Malicious Outsider,United States,Healthcare
+390,The Guidance Center of Westchester,04/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+391,The Honolulu Police Department (HPD),04/14/13,Account Access,Malicious Outsider,United States,Government
+392,U.S Mail,03/13/13,Financial Access,Malicious Insider,United States,Government
+393,Umass Center,05/14/13,Identity Theft,Malicious Outsider,United States,Other
+394,University of Massachusetts,05/14/13,Identity Theft,Malicious Outsider,United States,Other
+395,Wheaton Franciscan Services,04/04/13,Nuisance,Malicious Insider,United States,Healthcare
+396,Allen County Information Technology,03/03/13,Identity Theft,Malicious Outsider,United States,Government
+397,Beachbody,05/14/13,Financial Access,Malicious Outsider,United States,Other
+398,Citi Bike Acknowledges ,07/02/13,Identity Theft,Malicious Outsider,United States,Other
+399,Comprehensive Podiatry,08/23/13,Identity Theft,Malicious Outsider,United States,Healthcare
+400,Donald K. Johnson Eye Centre,09/14/13,Nuisance,Accidental Loss,Canada,Healthcare
+401,El Paso Community College,10/17/13,Identity Theft,Accidental Loss,United States,Education
+402,Fidelity Life,11/01/13,Identity Theft,Malicious Outsider,New Zealand,Healthcare
+403,Georgia Department of Labor,08/14/13,Identity Theft,Accidental Loss,United States,Government
+404,Group Health Cooperative,04/14/13,Identity Theft,Accidental Loss,United States,Healthcare
+405,Harbor Group, Orthopedics & Adult Reconstructive Surgery,04/19/13,Nuisance,Accidental Loss,United States,Healthcare
+406,Houston govt, US Airways,07/01/13,Identity Theft,Accidental Loss,United States,Government
+407,Human Resources,02/12/13,Identity Theft,Accidental Loss,Canada,Government
+408,ICS Collection Service, University of Chicago Medicine,08/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+409,Shavika Thompson,09/23/13,Financial Access,Malicious Insider,United States,Healthcare
+410,Sheet Metal Local 36 Welfare Fund ,07/03/13,Nuisance,Malicious Outsider,United States,Healthcare
+411,The city of Houston,05/29/13,Identity Theft,Accidental Loss,United States,Government
+412,UHS-Pruitt Corporation,09/26/13,Identity Theft,Malicious Outsider,United States,Healthcare
+413,Auto-Dress,05/20/13,Account Access,Malicious Outsider,Russia,Other
+414,Barnabas Health, Pediatric Specialty Center,09/24/13,Identity Theft,Malicious Outsider,United States,Healthcare
+415,Crozer Chester Medical Center,Chester Community Hospital ,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+416,Erlestoke prison ,05/03/13,Existential Data,Accidental Loss,United Kingdom,Government
+417,Hancock OB/GYN,08/05/13,Identity Theft,Malicious Insider,United States,Healthcare
+418,Henry Ford West Bloomfield Hospital,12/31/13,Identity Theft,Malicious Insider,United States,Healthcare
+419,Metro East health care,11/20/13,Identity Theft,Accidental Loss,United States,Healthcare
+420,Norfolk General Hospital,08/02/13,Identity Theft,Malicious Insider,Canada,Healthcare
+421,Oak Bay ,07/15/13,Identity Theft,Malicious Outsider,Canada,Other
+422,Road Safety Authority,11/08/13,Identity Theft,Accidental Loss,United Kingdom,Government
+423,Shumsky,05/16/13,Financial Access,Malicious Outsider,United States,Retail 
+424,Steak and Shake,03/10/13,Identity Theft,Malicious Insider,United States,Retail 
+425,Texas Health Presbyterian Dallas Hospital,08/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+426,The commonwealth bank,06/05/13,Account Access,Malicious Outsider,United Kingdom,Financial
+427,Tri-State Surgical Associates,10/11/13,Identity Theft,Accidental Loss,United States,Healthcare
+428,University of Pittsburgh Medical Center (UPMC),11/26/13,Identity Theft,Malicious Insider,United States,Healthcare
+429,Xbox One Mag,07/10/13,Account Access,Malicious Outsider,France,Technology
+430,ZDI, Delta Dental of Pennsylvania,04/20/13,Nuisance,Accidental Loss,United States,Healthcare
+431,Alta Bates Summit Medical Center,11/04/13,Identity Theft,Malicious Insider,United States,Healthcare
+432,Atlanta Center for Reproductive Medicine,09/26/13,Identity Theft,Accidental Loss,United States,Healthcare
+433,Experian,10/25/13,Financial Access,Malicious Outsider,United States,Financial
+434,Fintrac- Federal Agency,02/13/13,Identity Theft,Malicious Outsider,Canada,Government
+435,HMP Erlestoke,05/13/13,Identity Theft,Accidental Loss,United Kingdom,Government
+436,Illinois Department of Healthcare and Family Services,06/14/13,Identity Theft,Accidental Loss,United States,Healthcare
+437,Indian websites,05/03/13,Nuisance,Malicious Outsider,India,Other
+438,Ministry Of Education,03/13/13,Identity Theft,Accidental Loss,New Zealand,Government
+439,New York Health and Hospitals Corporation,04/30/13,Identity Theft,Malicious Insider,United States,Healthcare
+440,NTT DoCoMo,06/24/13,Identity Theft,Malicious Outsider,Japan,Retail 
+441,Penn State  Harrisburg,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+442,Penn State Great Valley,08/06/13,Identity Theft,Malicious Outsider,United States,Other
+443,Pret A Manger,07/21/13,Identity Theft,Malicious Insider,United States,Other
+444,PruittHealth Pharmacy Services,12/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+445,REDENET Institute,06/15/13,Account Access,Malicious Outsider,Brazil,Technology
+446,Susquehanna Health,Soldiers and Sailors Memorial Hospital,12/05/13,Identity Theft,Accidental Loss,United States,Healthcare
+447,Thomas L.David , Jr DDS,04/01/13,Identity Theft,Unknown,United States,Healthcare
+448,Access Counseling,08/23/13,Identity Theft,Malicious Outsider,United States,Financial
+449,Advantage Health Solutions,06/12/13,Identity Theft,Accidental Loss,United States,Financial
+450,Aflac,07/04/13,Identity Theft,Malicious Outsider,United States,Healthcare
+451,Argotec,07/28/13,Identity Theft,Malicious Outsider,United States,Other
+452,Brookdale University Hospital and Medical Center,08/05/13,Identity Theft,Unknown,United States,Healthcare
+453,C.C Accounting And Tax Service,02/13/13,Identity Theft,Malicious Outsider,United States,Financial
+454,Credit Union,07/09/13,Identity Theft,Malicious Outsider,United Kingdom,Financial
+455,Glens Falls Hospital ,03/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+456,Granger Clinic,02/20/13,Identity Theft,Accidental Loss,United States,Healthcare
+457,Hudson Valley Foie Gras ,04/14/13,Identity Theft,Hacktivist,United States,Retail 
+458,Hypoparathyroidism,03/13/13,Identity Theft,Malicious Outsider,United Kingdom,Healthcare
+459,Independence Care System,05/22/13,Nuisance,Malicious Outsider,United States,Healthcare
+460,MNsure,08/19/13,Identity Theft,Accidental Loss,United States,Financial
+461,Rotolo Pizzeria,02/13/13,Financial Access,Malicious Outsider,United States,Government
+462,San Jose Medical Supply,06/24/13,Identity Theft,Malicious Insider,United States,Healthcare
+463,Santa Clara Valley Health & Hospital System,09/19/13,Identity Theft,Malicious Outsider,United States,Healthcare
+464,Sault Area Hospital,08/16/13,Identity Theft,Accidental Loss,Canada,Healthcare
+465,Telstra ,04/17/13,Nuisance,Accidental Loss,Australia,Other
+466,University of Mississippi Medical Center,07/17/13,Identity Theft,Accidental Loss,United States,Other
+467,University of Texas Health Science Center at Houston ,08/05/13,Identity Theft,Malicious Outsider,United States,Healthcare
+468,Washington Department Of Social And Health Services,03/09/13,Identity Theft,Malicious Outsider,United States,Healthcare
+469,Williamson Medical Center ,12/01/13,Identity Theft,Accidental Loss,United States,Healthcare
+470,1st Response Medical Transport Corp,03/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+471,California Department of Public Health (CDPH),04/14/13,Identity Theft,Accidental Loss,United States,Healthcare
+472,Colorado Community Health Alliance (CCHA),11/21/13,Identity Theft,Accidental Loss,United States,Healthcare
+473,Hostgator,04/14/13,Nuisance,Malicious Insider,United States,Technology
+474,San Francisco State College of Extended Learning,07/24/13,Identity Theft,Malicious Outsider,United States,Other
+475,TechMedia Network,11/20/13,Financial Access,Malicious Outsider,United States,Technology
+476,University of Hong Kong,06/05/13,Nuisance,Malicious Outsider,Hong Kong,Other
+477,Wedgewood Legacy Medical,06/12/13,Identity Theft,Accidental Loss,United States,Healthcare
+478,Young Family Medicine Inc,08/05/13,Identity Theft,Unknown,United States,Healthcare
+479,City of Jeffersonville,11/11/13,Identity Theft,Accidental Loss,United States,Government
+480,El Centro Regional Medical Center (ECRMC), Digital Archive Management,04/17/13,Identity Theft,Malicious Insider,United States,Healthcare
+481,GOVERNMENT OF PRINCE EDWARD ISLAND,02/13/13,Identity Theft,Accidental Loss,Canada,Other
+482,Jackson Health System,05/07/13,Identity Theft,Accidental Loss,United States,Healthcare
+483,Janna Benkelman,08/02/13,Identity Theft,Accidental Loss,Canada,Healthcare
+484,Jonathan M. Wainwright Memorial VA Medical Center,11/01/13,Identity Theft,Accidental Loss,United States,Healthcare
+485,Lancaster general medical,04/04/13,Identity Theft,Malicious Insider,United States,Healthcare
+486,McDonald's,01/21/13,Financial Access,Malicious Insider,United States,Retail 
+487,McGowan Institute for Regenerative Medicine,05/15/13,Account Access,Malicious Outsider,United States,Healthcare
+488,Mount Sinai Medical Center,08/06/13,Identity Theft,Accidental Loss,United States,Healthcare
+489,Mount Sinai medical center,04/01/13,Financial Access,Malicious Insider,United States,Healthcare
+490,Royal Inland Hospital,06/16/13,Identity Theft,Accidental Loss,United States,Healthcare
+491,South Jordan sandwich shop,08/28/13,Financial Access,Malicious Insider,United States,Retail 
+492,American Choral Directors Association,07/19/13,Account Access,Malicious Outsider,United States,Other
+493,CaroMont Health,10/03/13,Identity Theft,Accidental Loss,United States,Healthcare
+494,Citizen's Advice Bureau,09/04/13,Identity Theft,Accidental Loss,United Kingdom,Technology
+495,Eddie Merlot,06/18/13,Financial Access,Malicious Insider,United States,Other
+496,Edge Auto Sales,03/01/13,Financial Access,Malicious Outsider,United States,Other
+497,Genesis Rehabilitation Services,10/06/13,Identity Theft,Accidental Loss,United States,Other
+498,Osceola County Sheriff's Office ,12/07/13,Nuisance,Malicious Insider,United States,Government
+499,Regional Medical Center,04/15/13,Identity Theft,Accidental Loss,United States,Healthcare
+500,Royal Borough of Windsor & Maidenhead,01/05/13,Identity Theft,Accidental Loss,United Kingdom,Government
+501,Samaritan Family Medicine Resident Clinic,06/24/13,Identity Theft,Accidental Loss,United States,Healthcare
+502,Sonoma Valley Hospital,05/01/13,Identity Theft,Accidental Loss,United States,Healthcare
+503,Steakhouses , Smith And Wollensky, Capital Grille,02/13/13,Financial Access,Malicious Insider,United States,Retail 
+504,TeenProgram.info,03/13/13,Account Access,Hacktivist,United States,Other
+505,THE Revenue department,02/13/13,Identity Theft,Malicious Outsider,United States,Government
+506,University of Tokyo,11/07/13,Identity Theft,Accidental Loss,Japan,Education
+507,Upstate University Hospital,04/03/13,Identity Theft,Malicious Outsider,United States,Healthcare
+508,Washington State University,10/11/13,Identity Theft,Malicious Outsider,United States,Education
+509,Wayne Memorial Hospital,02/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+510,Axis Bank,05/31/13,Financial Access,Malicious Outsider,India,Financial
+511,Cambridgeshire, Bedfordshire and Hertfordshire police,03/20/13,Identity Theft,Accidental Loss,United Kingdom,Government
+512,Cavan Monaghan Hospital,03/01/13,Identity Theft,Malicious Insider,United Kingdom,Healthcare
+513,Clark Memorial Hospital,07/30/13,Identity Theft,Accidental Loss,United States,Healthcare
+514,Dairy Queen,08/01/13,Financial Access,Malicious Outsider,United States,Retail 
+515,Massachusetts Mutual life Insurance Company, Convey Compliance System Inc,02/13/13,Identity Theft,Accidental Loss,United States,Financial
+516,Medical centre in Narre Warren South,11/23/13,Identity Theft,Accidental Loss,Australia,Healthcare
+517,Ministry of Transport of Israel,03/01/13,Account Access,State Sponsored,Israel,Government
+518,Municipality of Esneux,07/17/13,Account Access,Malicious Outsider,Belgium,Government
+519,Pearl Izumi,04/18/13,Financial Access,Accidental Loss,United States,Other
+520,Pierce County Housing Authority,08/15/13,Identity Theft,Accidental Loss,United States,Other
+521,Redwood Memorial Hospital,11/08/13,Identity Theft,Accidental Loss,United States,Healthcare
+522,Tax preparer, Federal agents,11/13/13,Identity Theft,Accidental Loss,United States,Financial
+523,University of Bahia website,04/26/13,Account Access,Malicious Outsider,Brazil,Other
+524,Veterans Affairs hospital,05/28/13,Identity Theft,Accidental Loss,United States,Healthcare
+525,Williamsburg County Sheriff,06/06/13,Nuisance,Malicious Insider,United States,Government
+526,Agincourt Wallboard LLC,02/13/13,Identity Theft,Malicious Outsider,United States,Other
+527,Anti-Corruption Unit,09/20/13,Account Access,Hacktivist,Cambodia,Government
+528,BNSF Railway Co,03/06/13,Identity Theft,Malicious Outsider,United States,Other
+529,Dead river Company,03/22/13,Identity Theft,Malicious Outsider,United States,Other
+530,Golden Town Buffet,11/13/13,Financial Access,Malicious Insider,United States,Other
+531,H&R Block,09/09/13,Nuisance,Malicious Insider,United States,Financial
+532,Life Flight,04/05/13,Identity Theft,Accidental Loss,United States,Healthcare
+533,MCK Rentals ,05/03/13,Existential Data,Malicious Insider,United Kingdom,Other
+534,North Shore Gardens Apartments,03/06/13,Identity Theft,Malicious Outsider,United States,Other
+535,Palm Garden of Winter Haven,05/01/13,Nuisance,Malicious Insider,United States,Healthcare
+536,Schneck Hospital,03/13/13,Nuisance,Accidental Loss,United States,Healthcare
+537,Seattle & King County,04/19/13,Identity Theft,Accidental Loss,United States,Healthcare
+538,Beypazari State Hospital,05/15/13,Existential Data,Malicious Outsider,Turkey,Healthcare
+539,Hopkins Road and Salem Church Road Elementary Schools,08/28/13,Identity Theft,Accidental Loss,United States,Other
+540,ICS-CERT,05/30/13,Account Access,Malicious Outsider,United States,Healthcare
+541,John J. Pershing VA Medical center,04/01/13,Identity Theft,Accidental Loss,United States,Healthcare
+542,Kaiser Permanente,08/15/13,Identity Theft,Accidental Loss,United States,Healthcare
+543,MED-EL,07/05/13,Identity Theft,Accidental Loss,United States,Healthcare
+544,New York City Police Department,04/29/13,Account Access,Malicious Insider,United States,Government
+545,Quebec Superior Court,01/01/13,Identity Theft,Accidental Loss,Canada,Government
+546,QuickRunner Inc,04/01/13,Nuisance,Unknown,United States,Healthcare
+547,Rose Medical Center,11/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+548,Sinco Treuhand AG,02/13/13,Identity Theft,Accidental Loss,Switzerland,Financial
+549,Texas Tech University Health Science Center,03/05/13,Identity Theft,Accidental Loss,United States,Other
+550,Valley Mental Health,04/21/13,Nuisance,Malicious Outsider,United States,Healthcare
+551,Baymont Inn Suites,02/13/13,Financial Access,Malicious Insider,United States,Government
+552,Boston Teachers Union Health & Welfare Fund ,06/12/13,Identity Theft,Accidental Loss,United States,Healthcare
+553,City of Norwood,05/22/13,Identity Theft,Unknown,United States,Healthcare
+554,Corona del Mar High School ,12/18/13,Identity Theft,Malicious Outsider,United States,Government
+555,Emeritus retirement home,04/15/13,Identity Theft,Malicious Insider,United States,Other
+556,Fidelity Investments,07/08/13,Identity Theft,Accidental Loss,United States,Financial
+557,Guilford County Schools,06/17/13,Identity Theft,Accidental Loss,United States,Other
+558,Hill Air Force Base,07/29/13,Identity Theft,Accidental Loss,United States,Government
+559,Irish Sangha Trust,12/27/13,Account Access,Malicious Outsider,United Kingdom,Financial
+560,LabCorp,05/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+561,Lake Granbury Medical Center,04/02/13,Nuisance,Malicious Outsider,United States,Healthcare
+562,Mass Mutual,12/06/13,Identity Theft,Accidental Loss,United States,Financial
+563,Rocky Mountain Spine Clinic,07/02/13,Identity Theft,Accidental Loss,United States,Healthcare
+564,Texas Health Care, P.L.L.C.,04/02/13,Nuisance,Malicious Outsider,United States,Healthcare
+565,Thunder Bay Regional Health Sciences Centre,04/30/13,Identity Theft,Accidental Loss,United States,Healthcare
+566,TK Maxx,07/22/13,Financial Access,Malicious Insider,United Kingdom,Retail 
+567,UConn Health Center,11/04/13,Identity Theft,Malicious Insider,United States,Healthcare
+568,University of Rochester Medical Center,04/14/13,Identity Theft,Accidental Loss,United States,Healthcare
+569,Weather Shield,03/13/13,Nuisance,Malicious Outsider,United States,Other
+570,Amos Medical Services,05/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+571,Columbia University Medical center,04/22/13,Identity Theft,Accidental Loss,United States,Other
+572,Dump at NoPaste.me,03/13/13,Account Access,Hacktivist,United States,Other
+573,Eagleton School, Castro School, Munroe School,10/05/13,Identity Theft,Malicious Outsider,United States,Education
+574,Hitrust,04/29/13,Identity Theft,Malicious Outsider,United States,Healthcare
+575,Kierkegaard & Perry Labs, Inc,09/09/13,Existential Data,Malicious Outsider,United States,Retail 
+576,Lyons and lyons,03/15/13,Identity Theft,Malicious Outsider,United States,Other
+577,Midwest Bank Center,03/13/13,Identity Theft,Malicious Outsider,United States,Financial
+578,Montreal Police,02/15/13,Identity Theft,Malicious Outsider,Canada,Government
+579,Orthocare Medical Equipment LLC,03/13/13,Identity Theft,Malicious Outsider,Lebanon,Healthcare
+580,Tampa General Hospital,07/17/13,Identity Theft,Malicious Insider,United States,Healthcare
+581,West Yorkshire Police,08/30/13,Identity Theft,Malicious Insider,United Kingdom,Government
+582,Burnett Practice,04/14/13,Account Access,Malicious Outsider,United Kingdom,Healthcare
+583,Cablevision,11/07/13,Financial Access,Malicious Outsider,United States,Education
+584,Finish Line,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+585,Nordstrom,10/05/13,Financial Access,Malicious Outsider,United States,Retail 
+586,Social Security Administration,07/04/13,Identity Theft,Malicious Insider,United States,Government
+587,TD Bank ,02/19/13,Financial Access,Malicious Insider,United States,Financial
+588,Turkish Prime Minister,05/15/13,Account Access,Malicious Outsider,Turkey,Government
+589,University of Neoliberal Arts,06/14/13,Account Access,Malicious Outsider,Brazil,Other
+590,Department of Economic Opportunity,11/07/13,Identity Theft,Accidental Loss,United States,Financial
+591,Eastern Health,03/30/13,Identity Theft,Malicious Outsider,United States,Healthcare
+592,EQC Earthquake Commission,08/20/13,Identity Theft,Accidental Loss,United States,Financial
+593,Regional Transit (RT),07/12/13,Nuisance,Malicious Insider,United States,Other
+594,China Buffet,12/19/13,Financial Access,Malicious Insider,United States,Other
+595,Dennys,09/05/13,Identity Theft,Accidental Loss,United States,Other
+596,E! Online,11/18/13,Account Access,Malicious Outsider,United States,other
+597,Ha Dinh Primary School,08/30/13,Nuisance,Malicious Outsider,Vietnam,Other
+598,Hope Hospice,04/14/13,Nuisance,Accidental Loss,United States,Healthcare
+599,NetCologne,08/21/13,Account Access,State Sponsored,Germany,Technology
+600,New Zealand AIDS Foundation,12/19/13,Account Access,Accidental Loss,New Zealand,Other
+601,Pictou County Health Authority,08/23/13,Identity Theft,Accidental Loss,United States,Healthcare
+602,Polk County School District,02/04/13,Identity Theft,Accidental Loss,United States,Other
+603,S.T Louis Housing Authority,03/03/13,Nuisance,Accidental Loss,United States,Healthcare
+604,Tooele County Commissioners,03/07/13,Identity Theft,Accidental Loss,United States,Government
+605,Troy Police,05/03/13,Existential Data,Malicious Insider,United States,Government
+606,Walgreens,11/01/13,Financial Access,Malicious Insider,United States,Healthcare
+607,Washington Inventory Service,08/06/13,Identity Theft,Accidental Loss,United States,Healthcare
+608,Clearwater police,04/23/13,Identity Theft,Malicious Insider,United States,Government
+609,Freeport post office,11/23/13,Financial Access,Malicious Insider,United States,Retail 
+610,H&R Block stores,02/21/13,Nuisance,Malicious Insider,United States,Retail
+611,Macau Government,06/17/13,Existential Data,Malicious Outsider,China,Government
+612,Philippine Government Websites,08/26/13,Nuisance,Hacktivist,Philippine,Government
+613,Samaritan Hospital,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+614,Vislink,07/02/13,Nuisance,Malicious Outsider,United Kingdom,Technology
+615,Aberdeen Hospital,08/24/13,Identity Theft,Malicious Insider,Canada,Healthcare
+616,Cheeverstown,08/08/13,Financial Access,Malicious Insider,United Kingdom,Healthcare
+617,Chinese University's mechanical engineering department,06/17/13,Account Access,Malicious Outsider,China,Other
+618,Christchurch ACC,07/21/13,Identity Theft,Malicious Outsider,United States,Financial
+619,Oakland ,04/11/13,Identity Theft,Accidental Loss,United States,Other
+620,Academy Studios,05/14/13,Identity Theft,Accidental Loss,United States,Other
+621,Atlanta Chapter of the Federal Bar Association,07/01/13,Account Access,Malicious Outsider,United States,Government
+622,Aurora,10/31/13,Nuisance,Accidental Loss,Australia,Healthcare
+623,Child and Family Services of New Hampshire,04/03/13,Identity Theft,Malicious Outsider,United States,Other
+624,Clinton Health Access  Initiative,03/15/13,Identity Theft,Accidental Loss,United States,Healthcare
+625,Dubai International Airport,05/31/13,Account Access,Malicious Outsider,United Arab Emirates,Other
+626,English Defence League members,05/04/13,Nuisance,Hacktivist,United Kingdom,Other
+627,Hong Kong Police Force,03/21/13,Account Access,Malicious Outsider,Hong Kong,Government
+628,Inland Revenue Department,03/18/13,Account Access,Accidental Loss,United States,Government
+629,Medical Management Health and Rehab ,05/03/13,Nuisance,Malicious Insider,United States,Healthcare
+630,Mid-Florida Urological Associates,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+631,Oldham school,04/14/13,Identity Theft,Accidental Loss,United Kingdom,Other
+632,Orleans County,02/13/13,Identity Theft,Malicious Outsider,United States,Government
+633,Philippine Navy,07/01/13,Account Access,Malicious Outsider,Philippines,Government
+634,Sentara Healthcare,08/02/13,Nuisance,Malicious Insider,United States,Healthcare
+635,Sheriff's deputy, Muscogee County Sheriff's Office,10/25/13,Identity Theft,Accidental Loss,United States,Government
+636,ST. Albert,03/11/13,Identity Theft,Malicious Insider,Canada,Healthcare
+637,Swiss Canadian Chamber of Commerce,05/31/13,Account Access,Hacktivist,United States,Technology
+638,Wesley College,06/30/13,Identity Theft,Accidental Loss,United States,Other
+639,Brookhaven,05/15/13,Identity Theft,Accidental Loss,United States,Government
+640,Erlanger Health System,03/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+641,former Anglo Irish Bank,07/25/13,Identity Theft,Accidental Loss,United Kingdom,Financial
+642,Royal Inland Hospital ,05/22/13,Identity Theft,Accidental Loss,United States,Healthcare
+643,Royal Oldham Hospital,04/02/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+644,Royal Oldman Hospital,03/13/13,Identity Theft,Malicious Insider,United Kingdom,Healthcare
+645,Aspen,02/05/13,Account Access,Malicious Outsider,United States,Other
+646,Interactive Data,05/17/13,Account Access,Malicious Outsider,United States,Financial
+647,Kettering Health Network,03/06/13,Identity Theft,Malicious Insider,United States,Healthcare
+648,Pathways ,05/21/13,Identity Theft,Accidental Loss,United States,Healthcare
+649,Republic Bank & Trust  Company,05/24/13,Identity Theft,Accidental Loss,United States,Financial
+650,Saskatchewan Ministry Of Health,02/28/13,Identity Theft,Accidental Loss,Canada,Government
+651,Tacoma-Pierce County Health Department ,12/08/13,Nuisance,Malicious Insider,United States,Healthcare
+652,US weapons system,05/28/13,Existential Data,State Sponsored,United States,Government
+653,AAPT,10/07/13,Existential Data,Malicious Outsider,Australia,Technology
+654,Australian Associated Motor Insurers (AAMI) ,07/23/13,Account Access,Accidental Loss,Australia,Financial
+655,Cartier North America,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+656,City Of York Council,02/08/13,Identity Theft,Accidental Loss,United Kingdom,Government
+657,Defense Research And Development Organization,02/13/13,Existential Data,Malicious Outsider,India,Government
+658,Finnish Foreign Service,11/02/13,Existential Data,Malicious Outsider,Finland,Government
+659,Health Information Trust Alliance Frisko,05/23/13,Account Access,Unknown,United States,Healthcare
+660,Miss Teen USA,08/08/13,Existential Data,Malicious Outsider,United States,Other
+661,Nokia,09/03/13,Existential Data,Malicious Outsider,Finland,Retail 
+662,Office of the Chief Information Officer,09/02/13,Existential Data,Malicious Outsider,Canada,Government
+663,The official presentation of the state government, National Data Center in Hall Saxony-Anhalt,09/24/13,Existential Data,Malicious Outsider,Germany,Government
+664,Tradebe,03/15/13,Identity Theft,Malicious Outsider,United States,Other
+665,U.S Army,08/03/13,Nuisance,Malicious Insider,Afghanistan,Government
+666,Ubisoft Entertainment,03/13/13,Existential Data,Malicious Outsider,France,Technology
+667,Video Games Companies,04/03/13,Existential Data,Malicious Outsider,China,Technology
+668,Actelis Networks ,12/31/13,Identity Theft,Malicious Outsider,United States,Technology
+669,Alabama's Colonial Properties Trust,10/02/13,Identity Theft,Malicious Outsider,United States,Financial
+670,Anthem Blue Cross,10/24/13,Identity Theft,Malicious Outsider,United States,Financial
+671,APT Australia,01/05/13,Existential Data,Malicious Insider,Australia,Technology
+672,Bank of the west,12/09/13,Identity Theft,Malicious Outsider,United States,Financial
+673,Barry University,05/14/13,Identity Theft,Malicious Outsider,United States,Healthcare
+674,Betsi Cadwaladr University Health Board,07/07/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+675,Cedars-Sinai Medical Center,06/19/13,Identity Theft,Malicious Insider,United States,Healthcare
+676,Chesapeake Energy,04/08/13,Existential Data,Malicious Insider,United States,Other
+677,Cleveland Institute of Music ,09/18/13,Identity Theft,Malicious Outsider,United States,Other
+678,Codeusa Software,02/13/13,Identity Theft,Malicious Outsider,United States,Government
+679,CoreLogic SafeRent ,12/04/13,Identity Theft,Malicious Outsider,United States,Other
+680,Crown Castle,10/03/13,Identity Theft,Malicious Outsider,United States,Other
+681,Detroit City,04/08/13,Identity Theft,Malicious Outsider,United States,Government
+682,Dr. Carol L. Patrick, clinical psychologist,10/01/13,Identity Theft,Malicious Outsider,United States,Healthcare
+683,Drew University,10/01/13,Identity Theft,Malicious Outsider,United States,Education
+684,E*Trade ,12/05/13,Identity Theft,Malicious Outsider,United States,Financial
+685,Ektron,06/15/13,Identity Theft,Malicious Outsider,United States,Technology
+686,Emory University,05/03/13,Identity Theft,Malicious Outsider,United States,Education
+687,Equifax, Transunion, Experian,02/13/13,Identity Theft,Malicious Outsider,United States,Financial
+688,Executive Accounting Services, Inc,09/17/13,Identity Theft,Malicious Outsider,United States,Financial
+689,Exelixis,08/24/13,Identity Theft,Malicious Outsider,United States,Technology
+690,First National Bank Of Southern California,02/13/13,Identity Theft,Malicious Outsider,United States,Financial
+691,Flamingo Resort and Spa,11/21/13,Identity Theft,Malicious Outsider,United States,Other
+692,Foreigners Division In The Union Home Ministry,02/13/13,Existential Data,Malicious Insider,India,Government
+693,Freddie Mac,04/15/13,Identity Theft,Malicious Outsider,United States,Financial
+694,Ge Capital,02/13/13,Identity Theft,Malicious Outsider,United States,Financial
+695,Hotusa Group,02/13/13,Identity Theft,Malicious Outsider,Spain,Government
+696,HSBC,11/01/13,Identity Theft,Malicious Outsider,United States,Financial
+697,Kathleen Whisman,04/11/13,Identity Theft,Malicious Outsider,United States,Healthcare
+698,Kia Motors, Hyundai Motor ,06/11/13,Existential Data,Malicious Insider,South Korea,Retail 
+699,Legal Aid Society of San Mateo County,08/12/13,Identity Theft,Malicious Outsider,United States,Other
+700,Leicester Police Department,03/13/13,Existential Data,Malicious Insider,United Kingdom,Government
+701,Lithua air navigation company,11/22/13,Existential Data,Malicious Insider, Lithua,Government
+702,Macy's,04/14/13,Identity Theft,Malicious Outsider,United States,Retail 
+703,Mercedes Benz,02/13/13,Identity Theft,Malicious Outsider,United States,Retail 
+704,Mission City Community Network,06/25/13,Identity Theft,Malicious Outsider,United States,Healthcare
+705,Mosaic,10/16/13,Identity Theft,Malicious Outsider,United States,Retail 
+706,NBC Sports,08/24/13,Identity Theft,Malicious Outsider,United States,Other
+707,North Georgia Technical College,11/02/13,Identity Theft,Malicious Outsider,United States,Education
+708,Nova Southeastern University,07/08/13,Identity Theft,Malicious Outsider,United States,Education
+709,Oakland Unified School District ,01/02/13,Identity Theft,Malicious Outsider,United States,Education
+710,Ohio Department of Job and Family Services,12/15/13,Identity Theft,Malicious Outsider,United States,Government
+711,Osprey Packs,07/30/13,Identity Theft,Malicious Outsider,United States,Retail 
+712,PayJunction,09/16/13,Identity Theft,Malicious Outsider,United States,Financial
+713,Peoples Trust Company,11/04/13,Identity Theft,Malicious Outsider,Canada,Financial
+714,RegistratioNation,12/30/13,Identity Theft,Malicious Outsider,United States,Other
+715,RoadLink Workforce Solutions,04/23/13,Existential Data,Malicious Insider,United States,Retail 
+716,School,03/21/13,Identity Theft,Accidental Loss,United Kingdom,Other
+717,Scott Air Force Base,09/23/13,Existential Data,Malicious Insider,United States,Government
+718,Southern Primary Health Organization,08/06/13,Identity Theft,Malicious Outsider,United States,Healthcare
+719,Stanley Black And Decker Inc.,02/13/13,Identity Theft,Malicious Outsider,United States,Financial
+720,T-Mobile Supplier,11/30/13,Identity Theft,Malicious Outsider,United States,Technology
+721,T-Mobile USA,12/30/13,Identity Theft,Malicious Outsider,United States,Technology
+722,Talk Fusion's,02/13/13,Identity Theft,Malicious Outsider,United States,Technology
+723,Tax Administration Jamaica ,12/02/13,Existential Data,Malicious Insider, Jamaica ,Government
+724,The Australian,10/06/13,Identity Theft,Malicious Outsider,Australia,Other
+725,The Social Security Administration,04/14/13,Identity Theft,Malicious Outsider,United States,Government
+726,U.S. government computer systems,10/15/13,Existential Data,Malicious Insider,United Kingdom,Government
+727,Victoria Police,04/13/13,Existential Data,Malicious Insider,Australia,Government
+728,21st Century Dental,08/19/13,Identity Theft,Malicious Insider,United States,Healthcare
+729,80'sTeens.com,03/15/13,Financial Access,Malicious Outsider,United States,Retail 
+730,ABC,06/09/13,Financial Access,Malicious Outsider,United States,Retail 
+731,ANZ,03/07/13,Financial Access,Malicious Outsider,Australia,Financial
+732,Barclays bank,09/06/13,Financial Access,Malicious Outsider,United Kingdom,Financial
+733,Bashas,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+734,BBCN Bank ,11/18/13,Financial Access,Malicious Outsider,United States,Financial
+735,Bed Bath & Beyond,08/05/13,Identity Theft,Malicious Insider,United States,Retail 
+736,Bel USA, DiscountMugs.com,08/19/13,Financial Access,Malicious Outsider,United States,Other
+737,benny's pizza,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+738,Big Brothers Big Sisters of America,12/11/13,Identity Theft,Malicious Insider,United States,Other
+739,Blanchard's Liquors,02/20/13,Financial Access,Malicious Outsider,United States,Retail 
+740,Blue Cross Blue Shield,03/13/13,Identity Theft,Malicious Insider,Canada,Financial
+741,Boats.net, Partzilla.com,08/22/13,Financial Access,Malicious Outsider,United States,Other
+742,Bojangles,12/04/13,Financial Access,Malicious Outsider,United States,Other
+743,Capella University,02/13/13,Identity Theft,Malicious Insider,United States,Other
+744,Capital One,12/28/13,Identity Theft,Malicious Insider,United States,Financial
+745,Centric Health plastic surgery clinic,08/23/13,Identity Theft,Malicious Insider,Canada,healthcare
+746,Citibank,01/13/13,Financial Access,Malicious Outsider,United States,Financial
+747,Clerys, Centra, Postbank and Pigsback,Stena Line, Northern Unislim,10/25/13,Financial Access,Malicious Outsider,United Kingdom,Financial
+748,Colombo Bank,04/19/13,Financial Access,Malicious Outsider,United States,Financial
+749,Corelogic Credco,03/13/13,Financial Access,Malicious Outsider,United States,Financial
+750,Cruises, Inc,10/23/13,Financial Access,Malicious Outsider,United States,Other
+751,Danner ,11/28/13,Financial Access,Malicious Outsider,United States,Retail 
+752,Derbyshire Constabulary,03/13/13,Identity Theft,Malicious Insider,United Kingdom,Government
+753,Discover Financial Services,12/20/13,Financial Access,Malicious Outsider,United States,Financial
+754,Doctor Office,03/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+755,Drama department at Cedar Crest College,06/12/13,Financial Access,Malicious Outsider,United States,Other
+756,East Texas hospital,01/14/13,Identity Theft,Malicious Insider,United States,Healthcare
+757,Emerald Garden, Tampa General Hospital,05/07/13,Identity Theft,Malicious Insider,United States,Healthcare
+758,EnStage, ElectraCard Services,04/15/13,Financial Access,Malicious Outsider,India,Financial
+759,eReplacementParts.com,06/09/13,Financial Access,Malicious Outsider,United States,Retail 
+760,Experian, Defense Contracts South FCU,09/06/13,Financial Access,Malicious Outsider,United States,Financial
+761,EZ Yield,11/21/13,Financial Access,Malicious Outsider,United States,Retail 
+762,Fabric Depot,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+763,Fast Food Outlets,02/04/13,Financial Access,Malicious Outsider,South Africa,Retail 
+764,Fazio Mechanical,12/06/13,Financial Access,Malicious Outsider,United States,Retail 
+765,Financial Times,04/24/13,Account Access,Malicious Outsider,United Kingdom,Other
+766,First Choise Home Health Care Services Inc, Reliance Home Care llC,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+767,Forks pizza,05/20/13,Financial Access,Malicious Outsider,United States,Other
+768,Fort McClellan Credit Union,04/14/13,Financial Access,Malicious Outsider,United States,Financial
+769,Frontier ,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+770,Genesco Inc, Us Journeys , Jurneys Kids, Shi By Journey, Johnston And Murfhy, Underground Station,02/13/13,Financial Access,Malicious Outsider,United States,Government
+771,Government ministries in Japan,06/20/13,Account Access,Accidental Loss,Japan,Government
+772,Haggan Daz,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+773,Hammersmith and Fulham Police,04/29/13,Identity Theft,Malicious Insider,United Kingdom,Government
+774,Harbor Freight Tools USA,05/06/13,Financial Access,Malicious Outsider,United States,Retail 
+775,HDFC,02/27/13,Financial Access,Malicious Outsider,India,Financial
+776,High school for the art in Bethlrchem,06/12/13,Financial Access,Malicious Outsider,United States,Other
+777,InterContinental Hotels Corporation,07/04/13,Financial Access,Malicious Outsider,United States,other
+778,InterContinental Mark Hopkins,07/27/13,Financial Access,Malicious Outsider,United States,Other
+779,JB Tax Professional Services Inc,07/23/13,Identity Theft,Malicious Insider,United States,Financial
+780,Job fair,07/22/13,Identity Theft,Malicious Insider,United States,Other
+781,Kearny Mesa Infiniti ,10/17/13,Identity Theft,Malicious Insider,United States,Retail 
+782,Kork And Keg,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+783,Lawrence Melrose Medical Electronic ,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+784,Lincoln Credit Center,11/03/13,Financial Access,Malicious Outsider,United States,Financial
+785,MAPCO Express,04/14/13,Financial Access,Malicious Outsider,United States,Financial
+786,Maple Grove Farms of Vermont,B&G Foods North America, Inc,11/16/13,Financial Access,Malicious Outsider,United States,Retail 
+787,Maricopa County Sheriff's Office,11/19/13,Identity Theft,Malicious Insider,United States,Government
+788,Michigan State University,10/28/13,Financial Access,Malicious Outsider,United States,Education
+789,Midwest Supplies, LLC,07/29/13,Financial Access,Malicious Outsider,United States,Retail 
+790,Mitsubishi UFJ Financial Group and Sumitomo Mitsui Financial Group,06/09/13,Financial Access,Malicious Outsider,Japan,Financial
+791,Next Day Blinds ,11/04/13,Financial Access,Malicious Outsider,United States,Retail 
+792,Northern Inyo Hospital,07/04/13,Identity Theft,Malicious Insider,United States,Healthcare
+793,Nottinghamshire Police ,03/13/13,Identity Theft,Malicious Insider,United Kingdom,Government
+794,NYPD,11/08/13,Identity Theft,Malicious Insider,United States,Government
+795,Oklahoma banks,05/03/13,Financial Access,Malicious Outsider,United States,Retail 
+796,Orient-Express Hotels Ltd,12/30/13,Financial Access,Malicious Outsider,NEW Zealand,Other
+797,Osceola county EMS,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+798,Outdoor Network LLC,08/29/13,Financial Access,Malicious Outsider,United States,Other
+799,Pitney Bowes,Experian,11/21/13,Financial Access,Malicious Outsider,United States,Financial
+800,Port Clyde General Store,05/08/13,Financial Access,Malicious Outsider,United States,Retail 
+801,Quidad,06/30/13,Financial Access,Malicious Outsider,United States,Retail 
+802,Rent-A-Center,11/01/13,Identity Theft,Accidental Loss,United States,Retail 
+803,Riot Games,08/30/13,Financial Access,Malicious Outsider,United States,Technology
+804,Rockland Federal Credit Union,08/27/13,Financial Access,Malicious Outsider,United States,Financial
+805,Rosauers, Yoke's Fresh Markets, Super 1 Foods, Family Foods, Harvest Foods, CenterPlace Market and Trading Co. Stores.,11/26/13,Financial Access,Malicious Outsider,United States,Retail 
+806,Rothman Institute,08/11/13,Identity Theft,Malicious Insider,United States,Healthcare
+807,San Francisco police,01/09/13,Identity Theft,Malicious Insider,United States,Government
+808,Savanna banks,04/23/13,Financial Access,Malicious Outsider,United States,Financial
+809,Sebastian,10/21/13,Financial Access,Malicious Outsider,United States,Other
+810,Sinai medical center ,02/13/13,Identity Theft,Malicious Insider,United States,Healthcare
+811,Smartphone Experts,08/01/13,Financial Access,Malicious Outsider,United States,Retail 
+812,South Florida State Hospital,05/21/13,Identity Theft,Malicious Insider,United States,Healthcare
+813,Subway,02/15/13,Financial Access,Malicious Outsider,United States,Retail 
+814,SwimSuitsforAll,08/07/13,Financial Access,Malicious Outsider,United States,Other
+815,Sydney ATMs,08/16/13,Financial Access,Malicious Outsider,Australia,Financial
+816,Tariq Mahmood ,04/11/13,Identity Theft,Malicious Insider,United States,Healthcare
+817,Theartsblock.com,10/30/13,Financial Access,Malicious Outsider,United States,Other
+818,Touchstone Theatre in Bethlehem,06/12/13,Financial Access,Malicious Outsider,United States,Other
+819,U.S Army,06/25/13,Identity Theft,Malicious Insider,United States,Government
+820,U.S. House of Representatives,08/22/13,Existential Data,State Sponsored,United States,Government
+821,Unique Vintage,09/10/13,Financial Access,Malicious Outsider,United States,Financial
+822,URM ,10/31/13,Financial Access,Malicious Outsider,United States,Retail 
+823,Verizon Wireless Zone store,12/05/13,Identity Theft,Malicious Insider,United States,Retail 
+824,W.J. Bradley Mortgage Capital, LLC,07/06/13,Identity Theft,Malicious Insider,United States,Financial
+825,Wells Fargo Bank,06/08/13,Identity Theft,Malicious Insider,United States,Financial
+826,wichcraft Operating, LLC,08/11/13,Financial Access,Malicious Outsider,United States,Retail 
+827,Wild Wing Cafe ,06/19/13,Financial Access,Malicious Outsider,United States,Other
+828,Windhaven Investment Management,09/05/13,Financial Access,Malicious Outsider,United States,Financial
+829,WINZ, Work and Income,04/23/13,Identity Theft,Accidental Loss,United States,Government
+830,Yolo Federal Credit Union ,05/29/13,Financial Access,Malicious Outsider,United States,Financial
+831,BankAsiana ,10/08/13,Financial Access,Malicious Insider,United States,Financial
+832,Branch Banking & Trust,10/13/13,Financial Access,Malicious Insider,United States,Financial
+833,California Department of Motor Vehicles,03/18/13,Financial Access,Malicious Insider,United States,Government
+834,Detroit Police,05/02/13,Financial Access,Malicious Insider,United States,Government
+835,Equinox,02/21/13,Financial Access,Malicious Insider,United States,Other
+836,helpline for the Revenue Commissioners,04/15/13,Financial Access,Malicious Insider,United States,Other
+837,Loyola University Medical Center,08/27/13,Financial Access,Malicious Insider,United States,Healthcare
+838,McDonald's, Shogun Japanese Steak House , Krystal , Polished Nail,02/13/13,Financial Access,Malicious Insider,United States,Retail 
+839,Olive Garden,08/21/13,Financial Access,Malicious Insider,United States,Retail 
+840,outbrain, Washington Post, CNN, Time,08/08/13,Account Access,State Sponsored,Israel,Other
+841,The Namibia Wildlife And Resorts,03/14/13,Financial Access,Malicious Insider,Namibia,Other
+842,The View Church,07/09/13,Financial Access,Malicious Insider,United States,Government
+843,Travelocity ,11/28/13,Financial Access,Malicious Insider,United States,Other
+844,United Parcel Service (ups),03/22/13,Identity Theft,State Sponsored,United States,Other
+845,Walmart,05/23/13,Financial Access,Malicious Insider,United States,Retail 
+846,Watauga River Regional Water Authority/North Elizabethton Water,05/01/13,Financial Access,Malicious Insider,United States,Other
+847,WAWA,03/13/13,Financial Access,Malicious Insider,United States,Retail 
+848,Wyndham Vacation,05/20/13,Financial Access,Malicious Insider,United States,Other
+849,BBC,03/19/13,Account Access,Malicious Outsider,United Kingdom,Other
+850,Bell County,11/30/13,Account Access,Malicious Outsider,United States,Other
+851,Bitcointalk.org,12/02/13,Account Access,Malicious Outsider,Germany,Technology
+852,Bitinstant,02/13/13,Account Access,Malicious Outsider,United States,Financial
+853,Bohemia Interactive,07/12/13,Account Access,Malicious Outsider,Czech Republic,Technology
+854,CNN,04/24/13,Account Access,Malicious Outsider,United States,Other
+855,FurRag,08/19/13,Account Access,Malicious Outsider,United States,Other
+856,Hindustan Times,09/20/13,Account Access,Malicious Outsider,United States,Other
+857,Jawbone,02/13/13,Account Access,Malicious Outsider,United States,Technology
+858,Kiwibank,09/06/13,Identity Theft,Accidental Loss,New Zealand,Financial
+859,LastPass,08/08/13,Account Access,Malicious Outsider,United States,Technology
+860,NeoGaf,10/16/13,Account Access,Malicious Outsider,United States,Technology
+861,OVH,07/22/13,Account Access,Malicious Outsider,France,Technology
+862,PureVPN,10/02/13,Account Access,Malicious Outsider,United States,Technology
+863,Round Rock Independent School District ,12/24/13,Account Access,Malicious Outsider,United States,Education
+864,Royal Free Hospital,10/12/13,Nuisance,Accidental Loss,United Kingdom,Healthcare
+865,Saratoga Sweets,11/25/13,Financial Access,Malicious Outsider,United States,Retail 
+866,St. Joseph hospital,06/09/13,Identity Theft,Malicious Insider,United States,Healthcare
+867,Statoil,03/15/13,Account Access,Malicious Outsider,Norway,Government
+868,Tepco,05/28/13,Identity Theft,Accidental Loss,Japan,Other
+869,Tesco,06/10/13,Identity Theft,Accidental Loss,United Kingdom,Retail 
+870,The Washington Post,12/18/13,Account Access,Malicious Outsider,United States,Other
+871,Uniontown Hospital,02/13/13,Account Access,Malicious Outsider,United States,Healthcare
+872,USI Insurance Services,11/14/13,Account Access,Malicious Outsider,United States,Financial
+873,vBulletin,11/18/13,Account Access,Malicious Outsider,United States,Technology
+874,Web sites belonging to the Pakistani government,03/25/13,Identity Theft,Hacktivist,Pakistan,Government
+875,White House,07/10/13,Account Access,Malicious Outsider,United States,Government
+876,Yusen Logistics (Americas) Inc,10/30/13,Identity Theft,Malicious Outsider,United States,Healthcare
+877,Gateway Alliance Medical,07/13/13,Account Access,Malicious Insider,Canada,Healthcare
+878,Hackney Council's Website,02/13/13,Account Access,Accidental Loss,United Kingdom,Government
+879,Jo Daviess Sheriff's Department,05/08/13,Account Access,Malicious Insider,United Kingdom,Government
+880,Spellman High Voltage Electronics Corporation Valhalla,04/14/13,Account Access,Malicious Insider,United States,Other
+881,Western Health Trust,04/03/13,Identity Theft,Accidental Loss,United Kingdom,Financial
+882,Albany Airport,05/16/13,Account Access,Malicious Outsider,United States,Other
+883,Armenian government ministries websites,08/23/13,Nuisance,State Sponsored,Armenia,Government
+884,Azerenerji,08/22/13,Existential Data,Hacktivist,Azerbaijan,Other
+885,Countess of Chester Hospital,10/03/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+886,Google.ps,08/10/13,Nuisance,State Sponsored,West Bank,Technology
+887,Melbourne IT, The New York Times,08/24/13,Account Access,State Sponsored,United States,Other
+888,U.S Federal Reserve, Grand Banks Yachts,02/13/13,Existential Data,Unknown,United States,Government
+889,Xerox,02/22/13,Identity Theft,Accidental Loss,United States,Technology
+890,Bitcoin bank,  Inputs.io,11/07/13,Nuisance,Malicious Outsider,Australia,Financial
+891,Cracked.com,11/12/13,Nuisance,Malicious Outsider,United States,Education
+892,DecisionDesk,11/07/13,Nuisance,Malicious Outsider,United States,Technology
+893,European Bitcoin payment processor BIPS,11/20/13,Nuisance,Malicious Outsider,Europe,Financial
+894,Google,08/19/13,Nuisance,Malicious Outsider,United States,Technology
+895,MTNL,08/18/13,Nuisance,Malicious Outsider,India,Government
+896,Nigeria Government Web Sites,09/20/13,Nuisance,Malicious Outsider,Nigeria,Government
+897,OpenSSL.org,12/29/13,Nuisance,Malicious Outsider,Sweden,Technology
+898,Pembrokeshire Council,03/13/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+899,Php.net,10/25/13,Nuisance,Malicious Outsider,United States,Technology
+900,Regional Medical Center Bayonet Point,06/25/13,Identity Theft,Accidental Loss,United States,Healthcare
+901,Singapore Prison, Prime Minister's Office, Singapore Elections Department, and Ministry of Communications,11/04/13,Nuisance,Malicious Outsider,Singapore,Government
+902,St. Clair Shores police department ,07/21/13,Nuisance,Malicious Outsider,United States,Government
+903,Substance Abuse, Mental Health Services Administration ,07/29/13,Nuisance,Malicious Outsider,United States,Healthcare
+904,Sun Ho website,09/02/13,Nuisance,Malicious Outsider,Singapore,Other
+905,The Chelan County treasurer , Leavenworth Hospital,04/14/13,Nuisance,Malicious Outsider,United States,Healthcare
+906,Time warner cable,03/26/13,Account Access,Hacktivist,United States,Other
+907,Torrington High School,12/18/13,Identity Theft,Accidental Loss,United States,Government
+908,U.S. Federal Election Commission ,12/24/13,Nuisance,Malicious Outsider,United States,Government
+909,Bail Bond Office,12/06/13,Nuisance,Malicious Insider,United States,Other
+910,Bob Robert And Amp,03/13/13,Nuisance,Malicious Insider,United States,Other
+911,Boca Roton Regional Hospital,02/13/13,Nuisance,Malicious Insider,United States,Healthcare
+912,Cherry Hill TD Bank,04/07/13,Nuisance,Malicious Insider,United States,Financial
+913,Dr. Tariq Mahmood,02/06/13,Nuisance,Malicious Insider,United States,Healthcare
+914,Island Resort And Casino,03/01/13,Financial Access,Unknown,United States,Other
+915,Premier Tax,02/13/13,Nuisance,Malicious Insider,United States,Government
+916,Rabon Communication Enhancement,11/08/13,Nuisance,Malicious Insider,United States,Healthcare
+917,Tribune Co,02/15/13,Nuisance,Malicious Insider,United States,Other
+918,Tucson doctor,04/18/13,Identity Theft,Accidental Loss,United States,Healthcare
+919,Vazzy's Osteria,02/20/13,Financial Access,Unknown,United States,Retail 
+920,Aetna,11/22/13,Identity Theft,Accidental Loss,United States,Financial
+921,AlliedBarton Security Services,09/09/13,Identity Theft,Accidental Loss,United States,Technology
+922,Auburn University, School of Forestry and Wildlife Sciences,07/31/13,Identity Theft,Accidental Loss,United States,Other
+923,Black Country councils red-faced,08/30/13,Identity Theft,Accidental Loss,United Kingdom,Government
+924,Christchurch public transport,11/15/13,Identity Theft,Accidental Loss,Australia,Other
+925,Clayton County ,11/18/13,Identity Theft,Accidental Loss,United States,Retail 
+926,Clinical Director of the National Maternity Hospital,08/05/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+927,Council of the Isle of Scilly,06/13/13,Identity Theft,Accidental Loss,United Kingdom,Government
+928,Election Office,03/13/13,Existential Data,Malicious Outsider,India,Government
+929,Eurasian Natural Resources Corporation,04/29/13,Existential Data,Malicious Outsider,United Kingdom,Other
+930,Five Islands School,06/07/13,Identity Theft,Accidental Loss,United Kingdom,Education
+931,Georgia Department of Driver Services public,11/18/13,Identity Theft,Accidental Loss,United States,Government
+932,Gigabyte,03/13/13,Existential Data,Malicious Outsider,Taiwan,Technology
+933,Great Ormond Street Hospital for Children NHS Foundation Trust ,06/06/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+934,Kaiser Permanente,01/01/13,Identity Theft,Accidental Loss,United States,Healthcare
+935,Lennox International,09/07/13,Identity Theft,Accidental Loss,United States,Other
+936,Mineralogy's Brisbane,05/29/13,Existential Data,Malicious Outsider,Australia,Other 
+937,Ministry Of Health,03/13/13,Nuisance,Accidental Loss,New Zealand,Government
+938,MyGov health (eHealth system),12/05/13,Identity Theft,Accidental Loss,Australia,Healthcare
+939,PLS Financial,09/04/13,Identity Theft,Accidental Loss,United States,Financial
+940,Prime Minister's Office,02/13/13,Existential Data,Malicious Outsider,Israel,Government
+941,Safeway,01/01/13,Identity Theft,Accidental Loss,United States,Retail 
+942,Sentry Life Insurance, Department of Labor,09/06/13,Identity Theft,Accidental Loss,United States,Financial
+943,Standard Insurance,10/07/13,Identity Theft,Accidental Loss,United States,Financial
+944,U.S. Army Corps of Engineers' National Inventory of Dams (NID),04/14/13,Existential Data,Malicious Outsider,United States,Government
+945,U.S. Department of Labor's Site,04/14/13,Existential Data,Malicious Outsider,United States,Government
+946,USPS Menlo Park,11/18/13,Identity Theft,Accidental Loss,United States,Government
+947,Arlington school,05/14/13,Identity Theft,Malicious Outsider,United States,Other
+948,Babson College,07/10/13,Identity Theft,Malicious Outsider,United States,Education
+949,Board of Barbering and Cosmetology,08/23/13,Identity Theft,Malicious Outsider,United States,Other
+950,Brandon University,10/14/13,Identity Theft,Malicious Outsider,Canada,Education
+951,Bridgewater Associates,07/08/13,Identity Theft,Malicious Outsider,United States,Financial
+952,Buckeye Title Loans of California, LLC, Cash Central of California LLC,09/02/13,Identity Theft,Malicious Outsider,United States,Financial
+953,Caledonia Home Health and Hospice,08/02/13,Identity Theft,Malicious Outsider,United States,Healthcare
+954,Calvert Internal Medicine,05/25/13,Identity Theft,Malicious Outsider,United States,Healthcare
+955,Catoctin Dental,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+956,Cerro Gordo County,03/28/13,Identity Theft,Malicious Outsider,United States,Government
+957,Citi,03/15/13,Identity Theft,Malicious Outsider,United States,Financial
+958,Clarity Media Group, Freedom Communications,10/12/13,Identity Theft,Malicious Outsider,United States,Other
+959,Crystal & Company,07/29/13,Identity Theft,Malicious Outsider,United States,Financial
+960,Crytek ,07/12/13,Identity Theft,Malicious Outsider,South Korea,Technology
+961,DELL,05/02/13,Identity Theft,Malicious Outsider,United States,Technology
+962,Edgewood Partners Insurance Company,08/13/13,Identity Theft,Malicious Outsider,United States,Financial
+963,Educause,02/01/13,Identity Theft,Malicious Outsider,United States,Other
+964,Emory University,07/22/13,Identity Theft,Malicious Outsider,United States,Other
+965,Equity Trust Company,04/23/13,Identity Theft,Malicious Outsider,United States,Financial
+966,Fannie Mae, Home Affordable Modification Program ,03/18/13,Identity Theft,Malicious Outsider,United States,Government
+967,Financial Institutions,02/05/13,Identity Theft,Malicious Outsider,Bahamas,Financial
+968,FISH food bank,06/24/13,Identity Theft,Malicious Outsider,United States,Other
+969,Foundations Recovery Network,06/03/13,Identity Theft,Malicious Outsider,United States,Healthcare
+970,Gerdau,10/25/13,Identity Theft,Malicious Outsider,United States,Healthcare
+971,Gerdau Ameristeel, HealthFitness,10/25/13,Identity Theft,Malicious Outsider,United States,Retail 
+972,Hankyu Chung, M.D.,08/20/13,Identity Theft,Malicious Outsider,United States,Healthcare
+973,Harmonix,03/13/13,Identity Theft,Malicious Outsider,United States,Technology
+974,Harvard, Stanford, MIT,04/25/13,Identity Theft,Malicious Outsider,United States,Other
+975,HealthCare.gov,11/02/13,Identity Theft,Malicious Outsider,United States,Financial
+976,Hospice Care Foundation,07/22/13,Identity Theft,Malicious Outsider,United States,Other
+977,Hudson Valley Community College,08/31/13,Identity Theft,Malicious Outsider,United States,Education
+978,Huntington's Disease Society of America (HDSA),07/10/13,Identity Theft,Malicious Outsider,United States,Financial
+979,IHS Inc,04/29/13,Identity Theft,Malicious Outsider,United States,Technology
+980,Income and Capital Growth Strategies Inc,07/20/13,Identity Theft,Malicious Outsider,United States,Financial
+981,Inspira Medical Center Vineland,12/25/13,Identity Theft,Malicious Outsider,United States,Healthcare
+982,Jackson County Civic Action Committee Inc,04/24/13,Identity Theft,Malicious Outsider,United States,Government
+983,Kitchenware store Lakeland,06/29/13,Identity Theft,Malicious Outsider,United States,Other
+984,Kmart,03/21/13,Identity Theft,Malicious Outsider,United States,Retail 
+985,Lee D. Pollan, DMD, PC,12/21/13,Identity Theft,Malicious Outsider,United States,Healthcare
+986,Local Government Ombudsman,07/24/13,Identity Theft,Malicious Outsider,United Kingdom,Government
+987,Manchester City FC,05/30/13,Existential Data,Malicious Insider,United Kingdom,Other
+988,Microsoft,02/14/13,Identity Theft,Malicious Outsider,United States,Technology
+989,Millimaki Eggert,06/10/13,Identity Theft,Malicious Outsider,United States,Financial
+990,National railway system,07/15/13,Identity Theft,Malicious Outsider,Japan,Other
+991,North Lincoln County Community Health Center Clinic,05/30/13,Identity Theft,Malicious Outsider,United States,Healthcare
+992,Northrop grumman technical services ,07/17/13,Identity Theft,Malicious Outsider,United States,Other
+993,OCS America,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+994,one west bank,04/14/13,Identity Theft,Malicious Outsider,United States,Financial
+995,OptiNose,03/22/13,Identity Theft,Malicious Outsider,Norway,Technology
+996,Orthopedic Physician Associate,04/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+997,Paychek Plus, FSV Payment Systems, Paymast'r Services,08/23/13,Identity Theft,Malicious Outsider,United States,Financial
+998,Peoples Bank of Commerce,04/19/13,Identity Theft,Malicious Outsider,United States,Financial
+999,Petrochem,09/14/13,Identity Theft,Malicious Outsider,United States,Other
+1000,Rob Meaglia,12/15/13,Identity Theft,Malicious Outsider,United States,Healthcare
+1001,Sands lothian Mortonhall Crematorium,02/26/13,Identity Theft,Malicious Outsider,United Kingdom,Other
+1002,Seattle Polics,06/04/13,Identity Theft,Malicious Outsider,United States,Government
+1003,Sedgwick,04/18/13,Identity Theft,Malicious Outsider,United States,Technology
+1004,Shore Mortgage,02/13/13,Identity Theft,Malicious Outsider,United States,Financial
+1005,StakerLaw Tax and Estate Planning Law Corporation,12/30/13,Identity Theft,Malicious Outsider,United States,other
+1006,suburban medical practice,10/05/13,Identity Theft,Malicious Outsider,New Zealand,Healthcare
+1007,Suddenly Single Parents Inc,10/06/13,Identity Theft,Malicious Outsider,United States,Other
+1008,Sunrise Atelier,11/09/13,Identity Theft,Malicious Outsider,United States,Technology
+1009,telco IF Telecom,06/04/13,Identity Theft,Malicious Outsider,Australia,Other
+1010,The New Teacher Project,09/10/13,Identity Theft,Malicious Outsider,United States,Other
+1011,Thorlo,02/13/13,Identity Theft,Malicious Outsider,United States,Other
+1012,Tinder,07/06/13,Identity Theft,Malicious Outsider,United States,Technology
+1013,TLO,03/13/13,Identity Theft,Malicious Outsider,United States,Other
+1014,Tomren Wealth Management,04/14/13,Identity Theft,Malicious Outsider,United States,Financial
+1015,TroubledTeenSolution.com,04/26/13,Identity Theft,Malicious Outsider,United States,Other
+1016,U.S Dep of Energy,02/13/13,Identity Theft,Malicious Outsider,United States,Government
+1017,Uniontown Hospital,02/13/13,Identity Theft,Malicious Outsider,United States,Healthcare
+1018,United Shore Financial Services, LLC,07/25/13,Identity Theft,Malicious Outsider,United States,Financial
+1019,University of Southern Maine,10/22/13,Identity Theft,Malicious Outsider,United States,Education
+1020,Vudu,03/13/13,Identity Theft,Malicious Outsider,United States,Technology
+1021,Washington University,12/21/13,Identity Theft,Malicious Outsider,United States,Education
+1022,Windsor obstetrician, Dr. Shobhana Patel,06/22/13,Identity Theft,Malicious Outsider,United States,Healthcare
+1023,BANK OF AMERICA,03/30/13,Financial Access,Malicious Outsider,United States,Financial
+1024,Boone Hospital ,09/18/13,Identity Theft,Malicious Insider,United States,Healthcare
+1025,Callaway Gardens,05/02/13,Financial Access,Malicious Outsider,United States,Other
+1026,Citi Prepaid Services,06/11/13,Financial Access,Malicious Outsider,United States,Financial
+1027,Department of Justice and Equality,04/02/13,Identity Theft,Malicious Insider,United Kingdom,Government
+1028,Discover Security,03/12/13,Financial Access,Malicious Outsider,United States,Financial
+1029,DMV,05/15/13,Identity Theft,Malicious Insider,United States,Government
+1030,Ephrata Community Hospital,05/29/13,Identity Theft,Malicious Insider,United States,Healthcare
+1031,Family of Fine Stores,05/24/13,Financial Access,Malicious Outsider,United States,Retail 
+1032,Florida Association Management,02/21/13,Financial Access,Malicious Outsider,United States,Other
+1033,Goldner Associates,05/27/13,Financial Access,Malicious Outsider,United States,Retail 
+1034,Green Mountain Club,05/27/13,Financial Access,Malicious Outsider,United States,Other
+1035,Hetzner Online AG,05/17/13,Financial Access,Malicious Outsider,Germany,Technology
+1036,HSCB Bank,02/13/13,Identity Theft,Malicious Insider,United States,Financial
+1037,Huntington's Disease Society of America (HDSA),10/02/13,Financial Access,Malicious Outsider,United States,Healthcare
+1038,Just Kids,05/07/13,Financial Access,Malicious Outsider,United States,Other
+1039,Linode,03/13/13,Financial Access,Malicious Outsider,United States,Technology
+1040,Market Square Restaurant,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+1041,Name.com,04/14/13,Financial Access,Malicious Outsider,United States,Technology
+1042,Niagara Peninsula Energy Inc,06/05/13,Financial Access,Malicious Outsider,Canada,Other
+1043,Orland Health Mid Florida Urological Associates,02/01/13,Identity Theft,Malicious Insider,United States,Healthcare
+1044,Oxfordshire County Council,07/13/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+1045,PHH Corp,04/17/13,Identity Theft,Malicious Insider,United States,Financial
+1046,PHH Corporation,04/22/13,Identity Theft,Malicious Insider,United States,Other
+1047,Quayside,06/14/13,Financial Access,Malicious Outsider,United States,Other
+1048,Raley's supermarket chain,05/17/13,Financial Access,Malicious Outsider,United States,Retail 
+1049,Restaurant and grocery suppliers,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+1050,Rosewood Inn of the Anasazi,05/07/13,Financial Access,Malicious Outsider,United States,Other
+1051,Roy's Holdings,06/17/13,Financial Access,Malicious Outsider,United States,Other
+1052,Shoplet.com,03/13/13,Financial Access,Malicious Outsider,United States,Other
+1053,Sprouts Farmer's Market,02/13/13,Financial Access,Malicious Outsider,United States,Retail 
+1054,Suffolk University,06/22/13,Financial Access,Malicious Outsider,United States,Other
+1055,Target Marketing Ashland,05/14/13,Financial Access,Malicious Outsider,United States,Other
+1056,tea-shop chain Teavana,03/20/13,Financial Access,Malicious Outsider,United States,Retail 
+1057,Tennis Express,03/12/13,Financial Access,Malicious Outsider,United States,Financial
+1058,ThyssenKrupp OnlineMetals, LLC,05/28/13,Financial Access,Malicious Outsider,United States,Other
+1059,TJG, Target Marketing,05/31/13,Financial Access,Malicious Outsider,United States,Education
+1060,US Bureau of Automotive Repair,06/16/13,Financial Access,Malicious Outsider,United States,Financial
+1061,Utah Dept. of Technology Service,05/07/13,Identity Theft,Malicious Insider,United States,Government
+1062,VYC Tires Inc, Coresense,05/30/13,Financial Access,Malicious Outsider,United States,Other
+1063,WorldVentures Marketing LLC,04/14/13,Financial Access,Malicious Outsider,United States,Other
+1064,Diapers.com and Soap.com,11/07/13,Account Access,Accidental Loss,United States,Retail 
+1065,Revana,04/27/13,Financial Access,Malicious Insider,United States,Other
+1066,T-Mobile,12/06/13,Account Access,Accidental Loss,United States,Retail
+1067,Zevin Asset Management ,09/05/13,Account Access,Accidental Loss,United States,Financial
+1068,Apple,06/27/13,Account Access,Malicious Outsider,United States,Technology
+1069,BANK OF AMERICA,02/13/13,Account Access,Malicious Outsider,United States,Financial
+1070,City of Lansing,05/17/13,Account Access,Malicious Outsider,United States,Government
+1071,City of Mobile Police,04/26/13,Account Access,Malicious Outsider,United States,Government
+1072,City of Monroeville,04/14/13,Account Access,Malicious Outsider,United States,Government
+1073,Federal Reserve,07/25/13,Identity Theft,Hacktivist,United States,Financial
+1074,Hammerpoint Interactive,03/13/13,Account Access,Malicious Outsider,United States,Technology
+1075,law enforcement agencies,06/05/13,Identity Theft,Hacktivist,United States,Government
+1076,Monsanto, Peugeot,05/17/13,Account Access,Malicious Outsider,United Kingdom,Other
+1077,NASDAQ.com,07/06/13,Account Access,Malicious Outsider,United States,Financial
+1078,Opscode,07/10/13,Account Access,Malicious Outsider,United States,Technology
+1079,OVH,07/01/13,Account Access,Malicious Outsider,France,Technology
+1080,Reputation.com,04/14/13,Account Access,Malicious Outsider,United States,Technology
+1081,Security Intelligence Group (SIG),07/10/13,Account Access,Malicious Outsider,Australia,Technology
+1082,Shalom Hartman institute,06/03/13,Account Access,Malicious Outsider,Israel,Other
+1083,Simple Machine,07/02/13,Account Access,Malicious Outsider,United States,Technology
+1084,Sony Europe,11/26/13,Account Access,Malicious Outsider,United Kingdom,Technology
+1085,U.S State Department,04/05/13,Identity Theft,Hacktivist,United States,Government
+1086,University of Minnesota,07/11/13,Account Access,Malicious Outsider,United States,Other
+1087,UPS,03/18/13,Account Access,Malicious Outsider,United States,Other
+1088,WhatsApp ,09/18/13,Account Access,Malicious Outsider,United States,Technology
+1089,WTOP and Federal News Radio Websites,04/15/13,Account Access,Malicious Outsider,United States,Technology
+1090,XSplit,11/07/13,Account Access,Malicious Outsider,United States,Technology
+1091,Schoenbar Middle School,04/14/13,Account Access,Malicious Insider,United States,Other
+1092,Channel 4,08/07/13,Nuisance,State Sponsored,United Kingdom,Other
+1093,GlobalPost, Twitter feed for U.S,09/20/13,Nuisance,State Sponsored,United States,Other
+1094,Hyundai Motor America,05/24/13,Nuisance,Accidental Loss,United States,Retail 
+1095,Stoke City Council,03/20/13,Existential Data,Accidental Loss,United Kingdom,Government
+1096,Take Care,10/30/13,Existential Data,Accidental Loss,Sweden,Healthcare
+1097,Aberdeen City Council,08/02/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+1098,ADP,05/30/13,Identity Theft,Accidental Loss,United States,Financial
+1099,Alabama Title Loans,07/11/13,Identity Theft,Accidental Loss,United States,Financial
+1100,American Home Patient Inc,02/13/13,Nuisance,Malicious Outsider,United States,Healthcare
+1101,AnMed Health, Health Port,11/18/13,Identity Theft,Accidental Loss,United States,Healthcare
+1102,Antioch Unified School District,02/13/13,Identity Theft,Accidental Loss,United States,Other
+1103,ANZ,12/07/13,Identity Theft,Accidental Loss,New Zealand,Financial
+1104,Australian Government Department Of Defense,02/13/13,Identity Theft,Accidental Loss,Australia,Government
+1105,Avira, AV firms', AVG,10/08/13,Nuisance,Malicious Outsider,Germany,Technology
+1106,Baltimore city,06/21/13,Identity Theft,Accidental Loss,United States,Government
+1107,Banana Republic,06/04/13,Identity Theft,Accidental Loss,United States,Retail 
+1108,Bank of Tokyo-Mitsubishi,09/02/13,Identity Theft,Accidental Loss,Japan,Financial
+1109,Behavioral Health Network, Inc,06/12/13,Identity Theft,Accidental Loss,United States,Healthcare
+1110,Berea College Health Service (BCHS),10/06/13,Identity Theft,Accidental Loss,United States,Healthcare
+1111,Bishop Verot High School,06/21/13,Identity Theft,Accidental Loss,United States,Other
+1112,Buller District Council,05/05/13,Identity Theft,Accidental Loss,New Zealand,Government
+1113,California Department of Public Health, Center for Family Health,04/29/13,Identity Theft,Accidental Loss,United States,Healthcare
+1114,Carol Milgard Breast Center,08/18/13,Identity Theft,Accidental Loss,United States,Healthcare
+1115,Centinela State Prison, Department of Corrections and Rehabilitation,08/23/13,Identity Theft,Accidental Loss,United States,Government
+1116,Chapman University,03/13/13,Identity Theft,Accidental Loss,United States,Other
+1117,CITGO Petroleum Corporation,10/09/13,Identity Theft,Accidental Loss,United States,Other
+1118,City of Joburg,07/23/13,Identity Theft,Accidental Loss,South Africa,Government
+1119,Cleveland school administration,07/12/13,Identity Theft,Accidental Loss,United States,Other
+1120,Cover Oregon,11/21/13,Identity Theft,Accidental Loss,United States,Financial
+1121,cPanel ,02/13/13,Nuisance,Malicious Outsider,United States,Technology
+1122,Daily Mail,07/18/13,Identity Theft,Accidental Loss,United Kingdom,Other
+1123,Danish National Police,05/20/13,Nuisance,Malicious Outsider,United States,Government
+1124,Department of State Hospitals,05/12/13,Identity Theft,Accidental Loss,United States,Healthcare
+1125,Dept. of Family and Support Services,04/14/13,Nuisance,Malicious Outsider,United States,Healthcare
+1126,Eastside Medical Center,11/18/13,Identity Theft,Accidental Loss,United States,Healthcare
+1127,Edgewater Hospital,10/08/13,Identity Theft,Accidental Loss,United States,Healthcare
+1128,eHealth Saskatchewan,11/07/13,Identity Theft,Accidental Loss,Canada,Healthcare
+1129,Eldorado Apartments,06/04/13,Identity Theft,Accidental Loss,United States,Other
+1130,Employment Development Department,11/25/13,Identity Theft,Accidental Loss,United States,Government
+1131,Erie County Social Services ,04/24/13,Identity Theft,Accidental Loss,United States,Government
+1132,Erskine Family Dentistry,04/16/13,Nuisance,Malicious Outsider,United States,Healthcare
+1133,Exchange Commission transferred,06/30/13,Identity Theft,Accidental Loss,United States,Financial
+1134,Family Health Enterprise,02/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+1135,Fcc Emergency Alert System,02/13/13,Nuisance,Malicious Outsider,United States,Government
+1136,Financial And News Organization,02/15/13,Nuisance,Malicious Outsider,South Korea,Financial
+1137,Fulton County ,11/08/13,Identity Theft,Accidental Loss,United States,Financial
+1138,Godiva Chocolatier, Inc,05/27/13,Identity Theft,Accidental Loss,United States,Retail 
+1139,Gordon Supply Company,08/15/13,Identity Theft,Accidental Loss,United States,Retail 
+1140,HealthMarkets,05/10/13,Identity Theft,Accidental Loss,United States,Financial
+1141,Hertfordshire County Council,06/13/13,Identity Theft,Accidental Loss,United Kingdom,Government
+1142,Inova,02/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+1143,International SOS,08/23/13,Nuisance,Malicious Outsider,United States,Healthcare
+1144,Jamison pharmacy,08/20/13,Identity Theft,Accidental Loss,Australia,Healthcare
+1145,Jea's,02/03/13,Nuisance,Malicious Outsider,United States,Financial
+1146,Kelly Plaza Dental Clinic,03/08/13,Identity Theft,Accidental Loss,United States,Healthcare
+1147,L. Frazier Banks Middle School,06/02/13,Identity Theft,Accidental Loss,United States,Other
+1148,Lakeland,07/01/13,Nuisance,Malicious Outsider,United Kingdom,Other
+1149,Lakeshore Mental Health Institute,04/14/13,Identity Theft,Accidental Loss,United States,Healthcare
+1150,Landmark Medical Supplies,03/10/13,Identity Theft,Accidental Loss,United States,Healthcare
+1151,Literacy Mid-South,04/13/13,Identity Theft,Accidental Loss,United States,Government
+1152,Los angeles times,02/13/13,Nuisance,Malicious Outsider,United States,Other
+1153,Malaysia Network Information Center,10/11/13,Nuisance,Malicious Outsider,Malaysia,Technology
+1154,Mass Mutual,02/13/13,Identity Theft,Accidental Loss,United States,Financial
+1155,Massachusetts Mutual Life Insurance, Clinical Reference Laboratory,09/16/13,Identity Theft,Accidental Loss,United States,Financial
+1156,Med america,02/13/13,Identity Theft,Accidental Loss,United States,Financial
+1157,Medamerica Insurance,03/13/13,Identity Theft,Accidental Loss,United States,Financial
+1158,Mid-Atlantic Regional Law Group,11/27/13,Identity Theft,Accidental Loss,United States,Other
+1159,Ministry of National Education,10/04/13,Nuisance,Malicious Outsider,Turkey,Government
+1160,Myntra.com,11/28/13,Identity Theft,Accidental Loss,India,Retail 
+1161,National American University,06/04/13,Identity Theft,Accidental Loss,United States,Education
+1162,NBC.com,02/07/13,Nuisance,Malicious Outsider,United States,Technology
+1163,NC Department of Health and Human Services ,11/07/13,Identity Theft,Accidental Loss,United States,Healthcare
+1164,NHC Oak Ridger,10/06/13,Identity Theft,Accidental Loss,United States,Healthcare
+1165,Novartis,03/04/13,Identity Theft,Accidental Loss,Switzerland,Healthcare
+1166,People Plus,03/01/13,Identity Theft,Accidental Loss,United States,Other
+1167,Polaris Industries,05/28/13,Identity Theft,Accidental Loss,United States,Technology
+1168,Pueblo Community College,10/08/13,Identity Theft,Accidental Loss,United States,Education
+1169,QuizUp,11/26/13,Identity Theft,Accidental Loss,United States,Technology
+1170,RacingPost.com,11/24/13,Nuisance,Malicious Outsider,United Kingdom,Financial
+1171,Rollins,03/13/13,Identity Theft,Accidental Loss,United States,Other
+1172,Ruby Tuesday,07/11/13,Identity Theft,Accidental Loss,United States,Other
+1173,sacred art tattoo,03/14/13,Identity Theft,Accidental Loss,United States,Other
+1174,Schneider Electric,02/13/13,Identity Theft,Accidental Loss,United States,Retail 
+1175,Securities and Exchange Commission,07/08/13,Identity Theft,Accidental Loss,United States,Government
+1176,Stanford University,07/01/13,Nuisance,Malicious Outsider,United States,Other
+1177,Sunshine Pharmacy,02/19/13,Identity Theft,Accidental Loss,United States,Healthcare
+1178,Sylvan Learning Center,07/11/13,Identity Theft,Accidental Loss,United States,Other
+1179,Talawanda School District,07/30/13,Identity Theft,Accidental Loss,United States,Other
+1180,TD Bank,09/13/13,Identity Theft,Accidental Loss,United Kingdom,Financial
+1181,TD Bank N.A,02/13/13,Identity Theft,Accidental Loss,United States,Financial
+1182,Thamesview Estate Agents,12/11/13,Identity Theft,Accidental Loss,United Kingdom,Other
+1183,The city of South Beloit,05/29/13,Nuisance,Malicious Outsider,United States,Government
+1184,The Fisherman's Restaurant,10/21/13,Identity Theft,Accidental Loss,United States,Other
+1185,Tinglysningsretten,11/12/13,Identity Theft,Accidental Loss,Denmark,other
+1186,Torbay Hospital,03/13/13,Identity Theft,Accidental Loss,United Kingdom,Healthcare
+1187,Town of Salina,03/31/13,Identity Theft,Accidental Loss,United States,Government
+1188,Tulsas Saint Francis Hospital,02/13/13,Identity Theft,Accidental Loss,United States,Healthcare
+1189,Unisys,02/13/13,Identity Theft,Accidental Loss,United States,Financial
+1190,University Of Mississippi Medical Center,02/18/13,Identity Theft,Accidental Loss,United States,Other
+1191,Utbrain,07/22/13,Nuisance,Malicious Outsider,United States,Other
+1192,Valic - Variable Annuity Life  Insurance Company,02/13/13,Identity Theft,Accidental Loss,United States,Financial
+1193,Verizon,05/25/13,Identity Theft,Accidental Loss,United States,Other
+1194,Westcoast Children's Clinic,04/03/13,Identity Theft,Accidental Loss,United States,Healthcare
+1195,Witchery,12/03/13,Identity Theft,Accidental Loss,Australia,Retail 
+1196,Zalicus, Inc,05/28/13,Identity Theft,Accidental Loss,United States,Technology
+1197,Bars And Kitchen,02/21/13,Nuisance,Malicious Insider,Canada,Other
+1198,Bell Helicopter,07/16/13,Financial Access,Unknown,United States,Other
+1199,Crafts Americanan Group Inc,02/13/13,Financial Access,Accidental Loss,United States,Retail 
+1200,D.R. Horton,09/13/13,Financial Access,Accidental Loss,United States,Other
+1201,EXL Services,11/06/13,Financial Access,Accidental Loss,United States,Financial
+1202,Global Internet Services,03/13/13,Nuisance,Hacktivist,United Kingdom,Technology
+1203,National Farmers Union,05/17/13,Nuisance,Hacktivist,United Kingdom,Financial
+1204,Reserve Bank Of Australia,02/13/13,Account Access,Unknown,Australia,Financial
+1205,Bit9,02/13/13,Nuisance,Unknown,United States,Technology
+1206,Lakes Environmental, Queenstown Lakes District Council,03/13/13,Nuisance,Accidental Loss,New Zealand,Government
+1207,Memorial Hospital of Lafayette County,08/06/13,Nuisance,Accidental Loss,United States,Healthcare
+1208,Microsoft, Facebook,Twitter,Apple,02/13/13,Nuisance,Unknown,United States,Technology
+1209,Mt. Rushmore Firms,05/27/13,Nuisance,Accidental Loss,United States,Technology
+1210,The Belgium  Railway Operator,02/13/13,Nuisance,Unknown,Belgium,Government
+1211,Titanic Belfast ,04/23/13,Nuisance,Accidental Loss,United Kingdom,Other
